@@ -1,0 +1,4431 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 0,
+                "camera_make": "GoPro",
+                "camera_model": "GoPro Fusion FS1.04.01.80.00",
+                "captured_at": "2020-10-26T22:56:56.500Z",
+                "key": "ftYOspJRzEUZ63otES5R7O",
+                "pano": true,
+                "sequence_key": "xssur55egfof4w0a6khegw",
+                "user_key": "N61KHsjvuje0JlL8oht8fQ",
+                "username": "copmapillary",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6070167,
+                    38.2633861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 0,
+                "camera_make": "GoPro",
+                "camera_model": "GoPro Fusion FS1.04.01.80.00",
+                "captured_at": "2020-10-26T22:56:00.000Z",
+                "key": "4SU8B3Skv8UP9zGJhkHE5c",
+                "pano": true,
+                "sequence_key": "xssur55egfof4w0a6khegw",
+                "user_key": "N61KHsjvuje0JlL8oht8fQ",
+                "username": "copmapillary",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6071636,
+                    38.2634417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 0,
+                "camera_make": "GoPro",
+                "camera_model": "GoPro Max",
+                "captured_at": "2020-10-25T11:55:09.000Z",
+                "key": "yWwnbYRdQ9Y7TXppTjuwuk",
+                "pano": true,
+                "sequence_key": "y9T0V3B1DJ6NjRKV5YeCOw",
+                "user_key": "fJ3HutTWT2pf5gknoahmpg",
+                "username": "di0v0n",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3807283,
+                    47.9684905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 243.31424637706675,
+                "camera_make": "LG Electronics",
+                "camera_model": "LG-R105",
+                "captured_at": "2020-10-24T09:55:50.000Z",
+                "key": "FpGKAYFADny3KxYp4Zz4hF",
+                "pano": true,
+                "sequence_key": "2q1ozeoc4zxkdv5lcz7fwu",
+                "user_key": "4HwWFchM_OSdvOc2reHcPA",
+                "username": "tankaru",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.265207,
+                    35.601265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 259.0433806020176,
+                "camera_make": "LG Electronics",
+                "camera_model": "LG-R105",
+                "captured_at": "2020-10-24T09:53:27.994Z",
+                "key": "93Cfbxdpuq4pxJobtGryVV",
+                "pano": true,
+                "sequence_key": "2q1ozeoc4zxkdv5lcz7fwu",
+                "user_key": "4HwWFchM_OSdvOc2reHcPA",
+                "username": "tankaru",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2662725,
+                    35.6002725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 262.2827917774375,
+                "camera_make": "LG Electronics",
+                "camera_model": "LG-R105",
+                "captured_at": "2020-10-24T09:52:54.013Z",
+                "key": "NPNyOL1rDWXfrdFV3eRjlj",
+                "pano": true,
+                "sequence_key": "2q1ozeoc4zxkdv5lcz7fwu",
+                "user_key": "4HwWFchM_OSdvOc2reHcPA",
+                "username": "tankaru",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.266268,
+                    35.599905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 222.42488032146593,
+                "camera_make": "LG Electronics",
+                "camera_model": "LG-R105",
+                "captured_at": "2020-10-24T09:51:57.992Z",
+                "key": "EPWnjsUTKPUcnabtISzB0E",
+                "pano": true,
+                "sequence_key": "2q1ozeoc4zxkdv5lcz7fwu",
+                "user_key": "4HwWFchM_OSdvOc2reHcPA",
+                "username": "tankaru",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2663092,
+                    35.5995565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 216.66328654922836,
+                "camera_make": "LG Electronics",
+                "camera_model": "LG-R105",
+                "captured_at": "2020-10-24T09:51:03.980Z",
+                "key": "mq0ceErlrhaRz0noJNHLT0",
+                "pano": true,
+                "sequence_key": "2q1ozeoc4zxkdv5lcz7fwu",
+                "user_key": "4HwWFchM_OSdvOc2reHcPA",
+                "username": "tankaru",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.266535,
+                    35.599435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 191.0697277499978,
+                "camera_make": "LG Electronics",
+                "camera_model": "LG-R105",
+                "captured_at": "2020-10-24T09:50:47.987Z",
+                "key": "Qd2q8YwON75qJ2vg0iXurb",
+                "pano": true,
+                "sequence_key": "2q1ozeoc4zxkdv5lcz7fwu",
+                "user_key": "4HwWFchM_OSdvOc2reHcPA",
+                "username": "tankaru",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2665983,
+                    35.5994023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 236.5487049998328,
+                "camera_make": "LG Electronics",
+                "camera_model": "LG-R105",
+                "captured_at": "2020-10-24T09:39:22.284Z",
+                "key": "iBBehcBj27Wmlm6v6QkG5b",
+                "pano": true,
+                "sequence_key": "u27654j33jkm0pn3m468yv",
+                "user_key": "4HwWFchM_OSdvOc2reHcPA",
+                "username": "tankaru",
+                "quality_score": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.268362,
+                    35.598186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 0,
+                "camera_make": "GoPro",
+                "camera_model": "GoPro Fusion FS1.04.01.80.00",
+                "captured_at": "2020-10-23T22:44:35.000Z",
+                "key": "NUoOj0L5zy66QCKFFGglh5",
+                "pano": true,
+                "sequence_key": "a7u6uv66xbpzv79f89dy0d",
+                "user_key": "N61KHsjvuje0JlL8oht8fQ",
+                "username": "copmapillary",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5949639,
+                    38.2388972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 0,
+                "camera_make": "GoPro",
+                "camera_model": "GoPro Fusion FS1.04.01.80.00",
+                "captured_at": "2020-10-23T22:44:25.000Z",
+                "key": "8HqrGlLxG7I62uc35imlNK",
+                "pano": true,
+                "sequence_key": "a7u6uv66xbpzv79f89dy0d",
+                "user_key": "N61KHsjvuje0JlL8oht8fQ",
+                "username": "copmapillary",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5942917,
+                    38.2385111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 227.332089602387,
+                "camera_make": "Apple",
+                "camera_model": "iPhone SE",
+                "captured_at": "2020-10-22T16:19:44.605Z",
+                "key": "RCZfCyn5uPLfsG0q6MvX74",
+                "pano": false,
+                "sequence_key": "urvj6o33bhstjivhl8rrf3",
+                "user_key": "aVt-ErZ-Dxy4643o4VGdtg",
+                "username": "changchun1",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4197665,
+                    49.4254034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 0,
+                "camera_make": "Apple",
+                "camera_model": "iPhone SE",
+                "captured_at": "2020-10-22T16:13:23.099Z",
+                "key": "1x8flYyKVBMBZ1xyDQUiC4",
+                "pano": false,
+                "sequence_key": "urvj6o33bhstjivhl8rrf3",
+                "user_key": "aVt-ErZ-Dxy4643o4VGdtg",
+                "username": "changchun1",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4327099,
+                    49.4378869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 143.20068339959425,
+                "camera_make": "Apple",
+                "camera_model": "iPhone SE",
+                "captured_at": "2020-10-22T16:12:54.476Z",
+                "key": "ReID2gU37ppZLAcEfG0VzW",
+                "pano": false,
+                "sequence_key": "xjmkwkw6z0cw6fv6v9jhuh",
+                "user_key": "aVt-ErZ-Dxy4643o4VGdtg",
+                "username": "changchun1",
+                "quality_score": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.43055,
+                    49.4388585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 180.9441278919345,
+                "camera_make": "Apple",
+                "camera_model": "iPhone SE",
+                "captured_at": "2020-10-22T16:11:48.611Z",
+                "key": "3W9modAIWsuNPMqdhvRPxE",
+                "pano": false,
+                "sequence_key": "xjmkwkw6z0cw6fv6v9jhuh",
+                "user_key": "aVt-ErZ-Dxy4643o4VGdtg",
+                "username": "changchun1",
+                "quality_score": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4284147,
+                    49.4411338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 286.1386260986328,
+                "camera_make": "Apple",
+                "camera_model": "iPhone X",
+                "captured_at": "2020-10-22T15:08:02.787Z",
+                "key": "7IAM3etPrVHpf63GX5wwUw",
+                "pano": false,
+                "sequence_key": "p49ktdst5i2t5z2il5yrv3",
+                "user_key": "TJHNGcBH6CPtF6bai9fYul",
+                "username": "apollourban",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8191659,
+                    32.0700769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 0,
+                "camera_make": "Apple",
+                "camera_model": "iPhone SE",
+                "captured_at": "2020-10-22T14:57:36.394Z",
+                "key": "mZ9fKPjMZMsno3CxyUyEPX",
+                "pano": false,
+                "sequence_key": "fd957qersclz7hyuqid5xn",
+                "user_key": "aVt-ErZ-Dxy4643o4VGdtg",
+                "username": "changchun1",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3473204,
+                    49.4805059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 168.42060887821253,
+                "camera_make": "Apple",
+                "camera_model": "iPhone SE",
+                "captured_at": "2020-10-22T14:57:18.185Z",
+                "key": "lInwSVBTmfXyk39N7QWJMn",
+                "pano": false,
+                "sequence_key": "fd957qersclz7hyuqid5xn",
+                "user_key": "aVt-ErZ-Dxy4643o4VGdtg",
+                "username": "changchun1",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.347257,
+                    49.4809446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 210.45726023833515,
+                "camera_make": "Apple",
+                "camera_model": "iPhone SE",
+                "captured_at": "2020-10-22T14:56:23.314Z",
+                "key": "P98yLDP20zLhzNUKliHpgY",
+                "pano": false,
+                "sequence_key": "fd957qersclz7hyuqid5xn",
+                "user_key": "aVt-ErZ-Dxy4643o4VGdtg",
+                "username": "changchun1",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3465563,
+                    49.4817605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 139.06169528622598,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T14:47:31.490Z",
+                "key": "Ok_EOeoAVQ-dJkzFjd-BRA",
+                "pano": false,
+                "sequence_key": "Iy-qWuf7bnPAOmOgldyI7A",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5269807,
+                    52.5208335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 142.05561160903795,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T14:47:19.490Z",
+                "key": "jOAo97PmgCm7bkmuUuX8sQ",
+                "pano": false,
+                "sequence_key": "N5dFZAQJKNUfR-4AGTyYNw",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5264298,
+                    52.5212564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 135.31054331391624,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T14:47:01.490Z",
+                "key": "pzIDgy3oO7xskgWRhXXMdA",
+                "pano": false,
+                "sequence_key": "N5dFZAQJKNUfR-4AGTyYNw",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5254928,
+                    52.5219792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 214.23661211635795,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T14:37:04.020Z",
+                "key": "0cmr02xN29JntOIe8B2TkQ",
+                "pano": false,
+                "sequence_key": "7bJCVU-sLiXxOMxkz9bzfQ",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5392007,
+                    52.5328586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 212.76258125908123,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T14:36:30.020Z",
+                "key": "HPVGieHnrBNJPRyn0FMhew",
+                "pano": false,
+                "sequence_key": "7bJCVU-sLiXxOMxkz9bzfQ",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5406812,
+                    52.5342866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 213.02298917266523,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T14:35:24.020Z",
+                "key": "U6BU1Pt3aA1jWSKtFf-pGw",
+                "pano": false,
+                "sequence_key": "7bJCVU-sLiXxOMxkz9bzfQ",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5435962,
+                    52.5370916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 213.70669322008075,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T14:34:57.520Z",
+                "key": "BW5hzOvabZK7eWUr5QvRFw",
+                "pano": false,
+                "sequence_key": "7bJCVU-sLiXxOMxkz9bzfQ",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5447029,
+                    52.5381561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 212.02591221937973,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T14:34:46.020Z",
+                "key": "losmYpOHA0ck_EByMYCoqA",
+                "pano": false,
+                "sequence_key": "7bJCVU-sLiXxOMxkz9bzfQ",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5451926,
+                    52.5386292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 210.62373174263985,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T14:34:44.520Z",
+                "key": "i3ImpRqkFC-JbxvUKRDvYw",
+                "pano": false,
+                "sequence_key": "7bJCVU-sLiXxOMxkz9bzfQ",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.545256,
+                    52.5386913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 210.79730590876534,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T14:33:31.020Z",
+                "key": "87Nf-7Ub6t5fzHgr5MbiwQ",
+                "pano": false,
+                "sequence_key": "Wz-diE-9GShJhe72UuVQBA",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5486326,
+                    52.5418979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 207.57896739052148,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T14:33:09.520Z",
+                "key": "Of6ffMKpnN3zQDY3m-Klxg",
+                "pano": false,
+                "sequence_key": "Wz-diE-9GShJhe72UuVQBA",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5496002,
+                    52.542896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 229.59122135043674,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T14:32:53.520Z",
+                "key": "DtVY7NgQZtTrb_gCQm9_QA",
+                "pano": false,
+                "sequence_key": "Wz-diE-9GShJhe72UuVQBA",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5502632,
+                    52.543535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 211.45261501301718,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T14:32:21.020Z",
+                "key": "WGH2tHRHWM9smfj0qnnc4g",
+                "pano": false,
+                "sequence_key": "Wz-diE-9GShJhe72UuVQBA",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5518157,
+                    52.5450161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 69.161082836417,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T14:23:49.005Z",
+                "key": "6INCTiskXRJ-NZx0-gZTEg",
+                "pano": false,
+                "sequence_key": "I7DHuZqt5kCLTObECp2C2Q",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5442953,
+                    52.5556289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 71.3568219422811,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T14:23:31.505Z",
+                "key": "ITIN1UxyO-gGnOJWMrvsEA",
+                "pano": false,
+                "sequence_key": "I7DHuZqt5kCLTObECp2C2Q",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5429408,
+                    52.555349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 71.17463230562589,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T14:22:58.005Z",
+                "key": "O6EUUnEqatmfD6vEdyyITg",
+                "pano": false,
+                "sequence_key": "I7DHuZqt5kCLTObECp2C2Q",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5400697,
+                    52.5547897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 71.67586765126327,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T14:22:47.505Z",
+                "key": "wV0S3NlMBZcXtQL9eu7nlw",
+                "pano": false,
+                "sequence_key": "I7DHuZqt5kCLTObECp2C2Q",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.539169,
+                    52.5546225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 248.70267031392746,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T14:04:27.240Z",
+                "key": "VAqraDX4hLI6TOERvL8LGA",
+                "pano": false,
+                "sequence_key": "S-O1nkIcxg3EOlIkem3QUg",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5370367,
+                    52.5542283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 251.5406395281642,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T14:04:14.240Z",
+                "key": "ovZj4907IZ2yA-U1XBu4Xw",
+                "pano": false,
+                "sequence_key": "S-O1nkIcxg3EOlIkem3QUg",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5380189,
+                    52.5544131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 253.99530218823134,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T14:04:06.240Z",
+                "key": "4YstZGhri8qYzZBxAktEHg",
+                "pano": false,
+                "sequence_key": "S-O1nkIcxg3EOlIkem3QUg",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5386518,
+                    52.554544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 250.65142635793654,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T14:03:51.740Z",
+                "key": "uFC8hgS9MfgxPKPC_V0jgA",
+                "pano": false,
+                "sequence_key": "S-O1nkIcxg3EOlIkem3QUg",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5397421,
+                    52.5547545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 252.40002275413428,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T14:02:16.240Z",
+                "key": "spmHb_RY2p1ZdN8T0G-IoQ",
+                "pano": false,
+                "sequence_key": "S-O1nkIcxg3EOlIkem3QUg",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5471688,
+                    52.5562229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 254.80510479416512,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T14:01:03.740Z",
+                "key": "d6ySISBb-ImzuYcuts7J3A",
+                "pano": false,
+                "sequence_key": "tLf_hqQrgWjXB7t-WaGonQ",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5523841,
+                    52.5572185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 29.795913760586586,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T13:51:57.270Z",
+                "key": "KZGiHAq7juwjUFApPAWmvw",
+                "pano": false,
+                "sequence_key": "bGhgnC6kOiLZO46vdKhxeA",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5568895,
+                    52.5430983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 35.64834823809258,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T13:50:41.270Z",
+                "key": "1v0ruAwlpTT-qtZQS0zM-Q",
+                "pano": false,
+                "sequence_key": "bGhgnC6kOiLZO46vdKhxeA",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5537381,
+                    52.5399807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 33.50509230194916,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T13:50:17.770Z",
+                "key": "5IXjeOosND8vbKzMKUkCyw",
+                "pano": false,
+                "sequence_key": "bGhgnC6kOiLZO46vdKhxeA",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5525309,
+                    52.5389443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 29.20156843585096,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T13:49:38.770Z",
+                "key": "rS9TcyCXF7TyeNeRtXEdkg",
+                "pano": false,
+                "sequence_key": "bGhgnC6kOiLZO46vdKhxeA",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5508876,
+                    52.5371836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 22.032828039604738,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T13:49:27.770Z",
+                "key": "7R-Yy5os3_OBwddI0uDSoQ",
+                "pano": false,
+                "sequence_key": "bGhgnC6kOiLZO46vdKhxeA",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.550422,
+                    52.5366394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 28.424742911037868,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T13:49:23.770Z",
+                "key": "eoDyXBXJ4Sy2j0huHFDH_A",
+                "pano": false,
+                "sequence_key": "bGhgnC6kOiLZO46vdKhxeA",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.550248,
+                    52.5364372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 27.32530572406239,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T13:49:03.770Z",
+                "key": "UAmGcafGB5LAGeZe06jqkQ",
+                "pano": false,
+                "sequence_key": "bGhgnC6kOiLZO46vdKhxeA",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5493722,
+                    52.5354348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 28.214979283372372,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T13:48:16.310Z",
+                "key": "xpBKDCp9y4AoXPhacSzQXg",
+                "pano": false,
+                "sequence_key": "QvJiKL1mTfc1rsaIiPxL3w",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5473221,
+                    52.5330758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 29.527438541663912,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T13:48:02.310Z",
+                "key": "bnXoT6aAWPrdXMpnOVjLbQ",
+                "pano": false,
+                "sequence_key": "QvJiKL1mTfc1rsaIiPxL3w",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.546747,
+                    52.5324524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 29.39101844861125,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T13:47:54.810Z",
+                "key": "aa8OAS73fFtrf3t8HQImtA",
+                "pano": false,
+                "sequence_key": "gdM9A4_YkpPiaRBk8NIgrA",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5464333,
+                    52.5321086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 24.293462237798963,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T13:47:39.310Z",
+                "key": "4aOXCkPqckQu-w36MZoi9Q",
+                "pano": false,
+                "sequence_key": "gdM9A4_YkpPiaRBk8NIgrA",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5458123,
+                    52.531415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 18.635526940461773,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T13:40:38.310Z",
+                "key": "FHY2eup2SS00XiyRPqHTOg",
+                "pano": false,
+                "sequence_key": "2KzTWS1ghChMPkswQauQOw",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5438228,
+                    52.5174546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 306.0244510667724,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T13:40:20.310Z",
+                "key": "c4p1kncMasl_7MFtto4RDw",
+                "pano": false,
+                "sequence_key": "2KzTWS1ghChMPkswQauQOw",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5445601,
+                    52.5168142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 305.08857129344403,
+                "camera_make": "",
+                "camera_model": "",
+                "captured_at": "2020-10-22T13:40:10.310Z",
+                "key": "Zd-MtppoU-MEjzmG0-_rmg",
+                "pano": false,
+                "sequence_key": "2KzTWS1ghChMPkswQauQOw",
+                "user_key": "7jgUvAQExP2cqVK2U-jCFA",
+                "username": "m4p1ll4ry",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5452687,
+                    52.5164918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 99.24996948242188,
+                "camera_make": "Google",
+                "camera_model": "Pixel 2",
+                "captured_at": "2020-10-22T13:35:23.289Z",
+                "key": "hypSDSpdsn0CjwsTyppB6m",
+                "pano": false,
+                "sequence_key": "a0lvw62ommq3o1n3xbt2dg",
+                "user_key": "V-vwsEdz9RLxLEqx-4NxIg",
+                "username": "ccbb7766",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.7924884,
+                    56.2891607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 83.22286987304688,
+                "camera_make": "Google",
+                "camera_model": "Pixel 2",
+                "captured_at": "2020-10-22T13:34:32.277Z",
+                "key": "nH4tvQaXRbY9iXOf3uBNIx",
+                "pano": false,
+                "sequence_key": "a0lvw62ommq3o1n3xbt2dg",
+                "user_key": "V-vwsEdz9RLxLEqx-4NxIg",
+                "username": "ccbb7766",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.810121,
+                    56.2883882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 82.63973999023438,
+                "camera_make": "Google",
+                "camera_model": "Pixel 2",
+                "captured_at": "2020-10-22T13:34:25.247Z",
+                "key": "tgOxMlITz9edRpSbez76Rl",
+                "pano": false,
+                "sequence_key": "a0lvw62ommq3o1n3xbt2dg",
+                "user_key": "V-vwsEdz9RLxLEqx-4NxIg",
+                "username": "ccbb7766",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.8127509,
+                    56.2881736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 212.0558624267578,
+                "camera_make": "samsung",
+                "camera_model": "SM-G930F",
+                "captured_at": "2020-10-22T12:55:58.697Z",
+                "key": "Qf7q8tcuVCYpt7mt76MV7k",
+                "pano": false,
+                "sequence_key": "11jl9elpz7nmtxjkc8s9n7",
+                "user_key": "hxutZWY01Wf-YkjA4yNeFw",
+                "username": "dsmm",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0718363,
+                    50.9124276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 267.1230163574219,
+                "camera_make": "samsung",
+                "camera_model": "SM-G930F",
+                "captured_at": "2020-10-22T12:55:29.703Z",
+                "key": "PBohmA8lf1O2zlQvAkLS9k",
+                "pano": false,
+                "sequence_key": "11jl9elpz7nmtxjkc8s9n7",
+                "user_key": "hxutZWY01Wf-YkjA4yNeFw",
+                "username": "dsmm",
+                "quality_score": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0742644,
+                    50.9146091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 292.3803405761719,
+                "camera_make": "samsung",
+                "camera_model": "SM-G930F",
+                "captured_at": "2020-10-22T12:55:28.633Z",
+                "key": "nG8c7odjfJcri37kCS0rCU",
+                "pano": false,
+                "sequence_key": "11jl9elpz7nmtxjkc8s9n7",
+                "user_key": "hxutZWY01Wf-YkjA4yNeFw",
+                "username": "dsmm",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.074332,
+                    50.9145915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 317.0963134765625,
+                "camera_make": "samsung",
+                "camera_model": "SM-G930F",
+                "captured_at": "2020-10-22T12:53:06.538Z",
+                "key": "WQdU9oegZK5BvP7VOYloSS",
+                "pano": false,
+                "sequence_key": "di0few6b1fvp35m3vu6muu",
+                "user_key": "hxutZWY01Wf-YkjA4yNeFw",
+                "username": "dsmm",
+                "quality_score": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0776763,
+                    50.9094779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 293.10699462890625,
+                "camera_make": "samsung",
+                "camera_model": "SM-G930F",
+                "captured_at": "2020-10-22T12:52:34.613Z",
+                "key": "jJ7ZHRfw3dy01G75eJNfJ2",
+                "pano": false,
+                "sequence_key": "di0few6b1fvp35m3vu6muu",
+                "user_key": "hxutZWY01Wf-YkjA4yNeFw",
+                "username": "dsmm",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0806022,
+                    50.9072659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 345.01214599609375,
+                "camera_make": "samsung",
+                "camera_model": "SM-G980F",
+                "captured_at": "2020-10-22T12:39:38.670Z",
+                "key": "wKCy8XNUMpVVZwyZ5s37Sq",
+                "pano": false,
+                "sequence_key": "6vfptk7jeoxz1zjg72e2sw",
+                "user_key": "hxutZWY01Wf-YkjA4yNeFw",
+                "username": "dsmm",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.081412,
+                    50.9063404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 145.3843312635599,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 8",
+                "captured_at": "2020-10-22T10:47:08.804Z",
+                "key": "qfVmWEOrYWtkji7aHKkkRU",
+                "pano": false,
+                "sequence_key": "ta28xsz3e53voaqg1e93f6",
+                "user_key": "vRKTryTqyDOYKbiHHc9xMg",
+                "username": "peterleth",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1784505,
+                    55.2212671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 314.0644354296869,
+                "camera_make": "Blackvue",
+                "camera_model": "DR900S-1CH",
+                "captured_at": "2020-10-22T10:42:07.522Z",
+                "key": "F1j364E40tVUYLx9woou0k",
+                "pano": false,
+                "sequence_key": "0b0rucltymgt9dqwx1vovj",
+                "user_key": "X6Wh2mbCtfbom8Sz2wQ9EA",
+                "username": "madel",
+                "quality_score": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8665873,
+                    50.9787679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 57.01064506308023,
+                "camera_make": "Blackvue",
+                "camera_model": "DR900S-1CH",
+                "captured_at": "2020-10-22T10:41:53.022Z",
+                "key": "M95rVVSHMNEmEQEgyWDuoD",
+                "pano": false,
+                "sequence_key": "0b0rucltymgt9dqwx1vovj",
+                "user_key": "X6Wh2mbCtfbom8Sz2wQ9EA",
+                "username": "madel",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8662542,
+                    50.9782247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 51.2630830900024,
+                "camera_make": "Blackvue",
+                "camera_model": "DR900S-1CH",
+                "captured_at": "2020-10-22T10:41:49.522Z",
+                "key": "FSz0RbGT7TXAT6PTdH4fSI",
+                "pano": false,
+                "sequence_key": "0b0rucltymgt9dqwx1vovj",
+                "user_key": "X6Wh2mbCtfbom8Sz2wQ9EA",
+                "username": "madel",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8659228,
+                    50.9780746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 72.00357287491653,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 8",
+                "captured_at": "2020-10-22T10:22:43.710Z",
+                "key": "r0jwk3FWaoNsxm82HibrIT",
+                "pano": false,
+                "sequence_key": "92191scjhzrj90nezuehwg",
+                "user_key": "vRKTryTqyDOYKbiHHc9xMg",
+                "username": "peterleth",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1209406,
+                    55.4459471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 116.67551038926302,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 8",
+                "captured_at": "2020-10-22T10:20:22.350Z",
+                "key": "zKVWW3oRn2gpP4susJVr08",
+                "pano": false,
+                "sequence_key": "qu30smabzq4z9gi23v66bd",
+                "user_key": "vRKTryTqyDOYKbiHHc9xMg",
+                "username": "peterleth",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1085214,
+                    55.4478077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 278.0592492177757,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 8",
+                "captured_at": "2020-10-22T10:19:40.616Z",
+                "key": "KPM1E3MEVhRVRTaYVGgMsk",
+                "pano": false,
+                "sequence_key": "qu30smabzq4z9gi23v66bd",
+                "user_key": "vRKTryTqyDOYKbiHHc9xMg",
+                "username": "peterleth",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1105114,
+                    55.4480876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 169.5576831059402,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 8",
+                "captured_at": "2020-10-22T10:18:51.558Z",
+                "key": "aSiDAf8HCbMfL9gH5URboW",
+                "pano": false,
+                "sequence_key": "qu30smabzq4z9gi23v66bd",
+                "user_key": "vRKTryTqyDOYKbiHHc9xMg",
+                "username": "peterleth",
+                "quality_score": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1087103,
+                    55.4547916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 198.4816208356425,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 8",
+                "captured_at": "2020-10-22T10:15:06.775Z",
+                "key": "UPfq4qrvfg8ezERAq2Smfk",
+                "pano": false,
+                "sequence_key": "qu30smabzq4z9gi23v66bd",
+                "user_key": "vRKTryTqyDOYKbiHHc9xMg",
+                "username": "peterleth",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1247663,
+                    55.4831646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 195.29900550725245,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 8",
+                "captured_at": "2020-10-22T10:15:05.510Z",
+                "key": "j3EFfTCESqF2mAptA3nfXE",
+                "pano": false,
+                "sequence_key": "qu30smabzq4z9gi23v66bd",
+                "user_key": "vRKTryTqyDOYKbiHHc9xMg",
+                "username": "peterleth",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1248417,
+                    55.4832925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 148.8050537109375,
+                "camera_make": "samsung",
+                "camera_model": "SM-G930F",
+                "captured_at": "2020-10-22T10:10:41.443Z",
+                "key": "q4iFPLlmEPLJG5R2iAGIxb",
+                "pano": false,
+                "sequence_key": "cul16yn5qiuemc40mwa9yp",
+                "user_key": "hxutZWY01Wf-YkjA4yNeFw",
+                "username": "dsmm",
+                "quality_score": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0808975,
+                    50.9067377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 291.5563659667969,
+                "camera_make": "samsung",
+                "camera_model": "SM-G930F",
+                "captured_at": "2020-10-22T10:09:19.289Z",
+                "key": "BXLLJmrM7Ix6qm7RSZWO5Z",
+                "pano": false,
+                "sequence_key": "6ow3h8g34mmydiwdbx3ghb",
+                "user_key": "hxutZWY01Wf-YkjA4yNeFw",
+                "username": "dsmm",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0818171,
+                    50.9070031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 158.6072573376963,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 8",
+                "captured_at": "2020-10-22T10:08:05.805Z",
+                "key": "TS4H8wKldcganp0yeQdSGB",
+                "pano": false,
+                "sequence_key": "qu30smabzq4z9gi23v66bd",
+                "user_key": "vRKTryTqyDOYKbiHHc9xMg",
+                "username": "peterleth",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1125562,
+                    55.5524899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 187.8910369873047,
+                "camera_make": "samsung",
+                "camera_model": "SM-G930F",
+                "captured_at": "2020-10-22T10:04:54.427Z",
+                "key": "JFZGERiJbT79qDyPx9lRWM",
+                "pano": false,
+                "sequence_key": "xsz6jbaa36xoqzv0nirywy",
+                "user_key": "hxutZWY01Wf-YkjA4yNeFw",
+                "username": "dsmm",
+                "quality_score": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0719417,
+                    50.9133333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 182.6429901123047,
+                "camera_make": "samsung",
+                "camera_model": "SM-G930F",
+                "captured_at": "2020-10-22T10:04:48.271Z",
+                "key": "jr1ZRihU2A3mFaDMqzIouY",
+                "pano": false,
+                "sequence_key": "xsz6jbaa36xoqzv0nirywy",
+                "user_key": "hxutZWY01Wf-YkjA4yNeFw",
+                "username": "dsmm",
+                "quality_score": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0719979,
+                    50.9138541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 148.45729945555888,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 8",
+                "captured_at": "2020-10-22T10:02:32.772Z",
+                "key": "u10y18Gxs13oaYBgH9YNjV",
+                "pano": false,
+                "sequence_key": "qu30smabzq4z9gi23v66bd",
+                "user_key": "vRKTryTqyDOYKbiHHc9xMg",
+                "username": "peterleth",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1566203,
+                    55.591828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 149.40356786877283,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 8",
+                "captured_at": "2020-10-22T10:02:05.810Z",
+                "key": "cHvZrntvzrQnzkxKiLyZyF",
+                "pano": false,
+                "sequence_key": "qu30smabzq4z9gi23v66bd",
+                "user_key": "vRKTryTqyDOYKbiHHc9xMg",
+                "username": "peterleth",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1528029,
+                    55.5968686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 150.74944209807472,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 8",
+                "captured_at": "2020-10-22T09:55:32.894Z",
+                "key": "bTslaLmHM9H8uqC4bD6kHX",
+                "pano": false,
+                "sequence_key": "qu30smabzq4z9gi23v66bd",
+                "user_key": "vRKTryTqyDOYKbiHHc9xMg",
+                "username": "peterleth",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0672695,
+                    55.6466553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 159.55436972681673,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 8",
+                "captured_at": "2020-10-22T09:55:20.798Z",
+                "key": "oHExYG0vw0Ru80BRXYP59h",
+                "pano": false,
+                "sequence_key": "qu30smabzq4z9gi23v66bd",
+                "user_key": "vRKTryTqyDOYKbiHHc9xMg",
+                "username": "peterleth",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0648687,
+                    55.6494019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 139.7290759212866,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 8",
+                "captured_at": "2020-10-22T09:54:59.289Z",
+                "key": "wbTK1ID5g44hoDOaQE6dje",
+                "pano": false,
+                "sequence_key": "qu30smabzq4z9gi23v66bd",
+                "user_key": "vRKTryTqyDOYKbiHHc9xMg",
+                "username": "peterleth",
+                "quality_score": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0599631,
+                    55.6539626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 230.5451565394584,
+                "camera_make": "Blackvue",
+                "camera_model": "DR900S-1CH",
+                "captured_at": "2020-10-22T09:38:17.521Z",
+                "key": "y8U3S1WyA6Tn1nrsgC0nIJ",
+                "pano": false,
+                "sequence_key": "pjkqduwjn84oknf56qjqj8",
+                "user_key": "X6Wh2mbCtfbom8Sz2wQ9EA",
+                "username": "madel",
+                "quality_score": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9342929,
+                    51.150997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 5.76220703125,
+                "camera_make": "Gigaset",
+                "camera_model": "GS180",
+                "captured_at": "2020-10-22T09:28:02.873Z",
+                "key": "afv1zCImiGpAhU8qJwSoJG",
+                "pano": false,
+                "sequence_key": "8h8ghspxic9wa9p3h2k6mw",
+                "user_key": "hMNE44E2dMh5mwyAzXTvlR",
+                "username": "marnfredklein",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6337387,
+                    49.8064153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 269.99072265625,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 8",
+                "captured_at": "2020-10-22T09:14:28.404Z",
+                "key": "jHGV0yIn33WHoohjr6W6cy",
+                "pano": false,
+                "sequence_key": "thzg6qmzrgpnue5fu2zkrj",
+                "user_key": "vRKTryTqyDOYKbiHHc9xMg",
+                "username": "peterleth",
+                "quality_score": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7547953,
+                    55.8249861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 277.8688659667969,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 8",
+                "captured_at": "2020-10-22T09:13:21.422Z",
+                "key": "SN9J4PQ4pYlJfjd21PdmTS",
+                "pano": false,
+                "sequence_key": "thzg6qmzrgpnue5fu2zkrj",
+                "user_key": "vRKTryTqyDOYKbiHHc9xMg",
+                "username": "peterleth",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7536738,
+                    55.8397788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 26.344879150390625,
+                "camera_make": "samsung",
+                "camera_model": "SM-G975F",
+                "captured_at": "2020-10-22T06:03:51.964Z",
+                "key": "h91c5rY3gf75BEnfOyaSEs",
+                "pano": false,
+                "sequence_key": "9epb4iuxijiscxz9a32e1j",
+                "user_key": "sxeLOlK6K4HASFAslecvBl",
+                "username": "sarkhan36",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.2115034,
+                    40.6227109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 58.260833740234375,
+                "camera_make": "samsung",
+                "camera_model": "SM-G975F",
+                "captured_at": "2020-10-22T06:03:30.939Z",
+                "key": "Gei46CHFd3PCpZCz5T3Fys",
+                "pano": false,
+                "sequence_key": "9epb4iuxijiscxz9a32e1j",
+                "user_key": "sxeLOlK6K4HASFAslecvBl",
+                "username": "sarkhan36",
+                "quality_score": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.2090529,
+                    40.621292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 227.61680603027344,
+                "camera_make": "HUAWEI",
+                "camera_model": "ANE-LX1",
+                "captured_at": "2020-10-22T05:20:26.083Z",
+                "key": "da9oFaS92w80txM8k4oZwl",
+                "pano": false,
+                "sequence_key": "4i30wz0heoimm4oajcwc02",
+                "user_key": "5XhU5PnLBmSyvzU-EJYq8w",
+                "username": "edainius",
+                "quality_score": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6781218,
+                    55.8077935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 0,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 6s",
+                "captured_at": "2020-10-22T02:25:33.043Z",
+                "key": "HrcQSbODZr5Shm86LGfFYt",
+                "pano": false,
+                "sequence_key": "n0nkc1wpve1iydvxybuc4c",
+                "user_key": "A5iMpsJapQ3i2EOikTKw-Q",
+                "username": "tometome",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.421184,
+                    37.7920045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 355.5411773522874,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 6s",
+                "captured_at": "2020-10-22T01:59:14.228Z",
+                "key": "bB9FJ9n0zYewNgODWGCeiZ",
+                "pano": false,
+                "sequence_key": "wo3xdr2zgw44dljrlf13l9",
+                "user_key": "T5XC8U2yankf0h5WhKz_6Q",
+                "username": "geogeoiz",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7171542,
+                    36.716682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 350.0979961172093,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 6s",
+                "captured_at": "2020-10-22T01:59:01.180Z",
+                "key": "nVj98E8uzxjeiGZvRDExE9",
+                "pano": false,
+                "sequence_key": "wo3xdr2zgw44dljrlf13l9",
+                "user_key": "T5XC8U2yankf0h5WhKz_6Q",
+                "username": "geogeoiz",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7169484,
+                    36.715286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 3.2850301653639917,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 6s",
+                "captured_at": "2020-10-22T01:58:56.214Z",
+                "key": "kmaMDUup2bJTMceWuctsFG",
+                "pano": false,
+                "sequence_key": "wo3xdr2zgw44dljrlf13l9",
+                "user_key": "T5XC8U2yankf0h5WhKz_6Q",
+                "username": "geogeoiz",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7168984,
+                    36.7149848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 214.51769443238732,
+                "camera_make": "Blackvue",
+                "camera_model": "DR900S-1CH",
+                "captured_at": "2020-10-21T19:45:45.690Z",
+                "key": "yUxOxG4AZC5hiKNCFi4uUq",
+                "pano": false,
+                "sequence_key": "4riqehvf1xyn3h3ekwbzrh",
+                "user_key": "B5HyYbN8z3K-OxqiQNgA2Q",
+                "username": "marciosampaio",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.5373657,
+                    -23.511347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 42.5204436697386,
+                "camera_make": "Blackvue",
+                "camera_model": "DR900S-1CH",
+                "captured_at": "2020-10-21T19:43:33.690Z",
+                "key": "6yctaJfde7gmsXHYbPMt7U",
+                "pano": false,
+                "sequence_key": "7te541bfk3uzqrjftdrmp5",
+                "user_key": "B5HyYbN8z3K-OxqiQNgA2Q",
+                "username": "marciosampaio",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.5365668,
+                    -23.5103884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 141.33282470703125,
+                "camera_make": "unknown",
+                "camera_model": "unknown",
+                "captured_at": "2020-10-21T18:39:24.618Z",
+                "key": "3_PaMOG2i8h5T1s9jKs0Yg",
+                "pano": false,
+                "sequence_key": "wxqijyjgxqayxpw5zk6052",
+                "user_key": "W1LkbZE6wCdkHvrRZjVqZw",
+                "username": "phoneuploader",
+                "quality_score": 1,
+                "organization_key": "xzzdmYfRcWbsZtNphalB6V",
+                "private": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.0541056,
+                    51.6601577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 281.2786865234375,
+                "camera_make": "unknown",
+                "camera_model": "unknown",
+                "captured_at": "2020-10-21T18:32:18.639Z",
+                "key": "KEw2ii2KrQu5SL1rd5eq9g",
+                "pano": false,
+                "sequence_key": "wxqijyjgxqayxpw5zk6052",
+                "user_key": "W1LkbZE6wCdkHvrRZjVqZw",
+                "username": "phoneuploader",
+                "quality_score": 1,
+                "organization_key": "xzzdmYfRcWbsZtNphalB6V",
+                "private": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.0554058,
+                    51.6575385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 0,
+                "camera_make": "SAMSUNG",
+                "camera_model": "SM-C200",
+                "captured_at": "2020-10-21T17:04:08.347Z",
+                "key": "H9aMKWM8YiKgEcfcI0151I",
+                "pano": true,
+                "sequence_key": "mn36h9c9294tmgjhbr8sit",
+                "user_key": "TiRh5GvAODV0M21IyYOq4Q",
+                "username": "emanuel_alejandro_maciel_587",
+                "quality_score": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.0585388,
+                    -27.3714939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 61.42711658256627,
+                "camera_make": "Blackvue",
+                "camera_model": "DR900S-1CH",
+                "captured_at": "2020-10-21T16:35:59.190Z",
+                "key": "rs5dnu9UmVR4mPzoR0jDf5",
+                "pano": false,
+                "sequence_key": "4xhcvonwhefvth4vlqwnd4",
+                "user_key": "B5HyYbN8z3K-OxqiQNgA2Q",
+                "username": "marciosampaio",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47.0400705,
+                    -23.3503669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 42.554267712595674,
+                "camera_make": "Blackvue",
+                "camera_model": "DR900S-1CH",
+                "captured_at": "2020-10-21T16:34:32.690Z",
+                "key": "ltvAhKNCNDacEgfmuqaXMF",
+                "pano": false,
+                "sequence_key": "u00hang9c17zjeq0470yog",
+                "user_key": "B5HyYbN8z3K-OxqiQNgA2Q",
+                "username": "marciosampaio",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47.0481205,
+                    -23.3537371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 144,
+                "camera_make": "samsung",
+                "camera_model": "SM-G973F",
+                "captured_at": "2020-10-21T16:30:10.009Z",
+                "key": "T8yzzp6ZXYeOOjozMmDlIA",
+                "pano": false,
+                "sequence_key": "SD2bfFI2fVH6THXut6qT9A",
+                "user_key": "zp30vjlEfGf9QDbyOUyBIQ",
+                "username": "kami911",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.75888,
+                    47.4494444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 175.62430568468756,
+                "camera_make": "Blackvue",
+                "camera_model": "DR900S-1CH",
+                "captured_at": "2020-10-21T16:24:50.690Z",
+                "key": "IBjCmn9u8FMiRsbzOaFyzJ",
+                "pano": false,
+                "sequence_key": "pb2ntna17smij40zsk4gzo",
+                "user_key": "B5HyYbN8z3K-OxqiQNgA2Q",
+                "username": "marciosampaio",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47.095641,
+                    -23.3314363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 145.4452844154689,
+                "camera_make": "Blackvue",
+                "camera_model": "DR900S-1CH",
+                "captured_at": "2020-10-21T16:24:15.690Z",
+                "key": "2YsdUIcUxjGRO62JBkmvXg",
+                "pano": false,
+                "sequence_key": "pb2ntna17smij40zsk4gzo",
+                "user_key": "B5HyYbN8z3K-OxqiQNgA2Q",
+                "username": "marciosampaio",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47.0966002,
+                    -23.3283392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 94.15238356503374,
+                "camera_make": "Blackvue",
+                "camera_model": "DR900S-1CH",
+                "captured_at": "2020-10-21T16:23:28.689Z",
+                "key": "jVxoCja1ukBoBLhzsTQS6v",
+                "pano": false,
+                "sequence_key": "1goscoc7uvgl11fr2jbaiy",
+                "user_key": "B5HyYbN8z3K-OxqiQNgA2Q",
+                "username": "marciosampaio",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47.1008523,
+                    -23.3246937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 90.00000494538858,
+                "camera_make": "Blackvue",
+                "camera_model": "DR900S-1CH",
+                "captured_at": "2020-10-21T16:23:22.689Z",
+                "key": "DNVXbPlPKBLqcfZX9nluJW",
+                "pano": false,
+                "sequence_key": "1goscoc7uvgl11fr2jbaiy",
+                "user_key": "B5HyYbN8z3K-OxqiQNgA2Q",
+                "username": "marciosampaio",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47.1016044,
+                    -23.324705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 111.02287049000256,
+                "camera_make": "Blackvue",
+                "camera_model": "DR900S-1CH",
+                "captured_at": "2020-10-21T16:19:13.189Z",
+                "key": "HhjTlH9k9CwmfJcICFcnoX",
+                "pano": false,
+                "sequence_key": "xl3hftgpe17wo5jnx0np73",
+                "user_key": "B5HyYbN8z3K-OxqiQNgA2Q",
+                "username": "marciosampaio",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47.1271602,
+                    -23.3143043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 175.95917642156678,
+                "camera_make": "Blackvue",
+                "camera_model": "DR900S-1CH",
+                "captured_at": "2020-10-21T16:18:56.187Z",
+                "key": "kDLfyHJKLT74n5aDXyR5NC",
+                "pano": false,
+                "sequence_key": "f84nibwu7bbfpb7961l28p",
+                "user_key": "B5HyYbN8z3K-OxqiQNgA2Q",
+                "username": "marciosampaio",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47.1288401,
+                    -23.3129592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 0,
+                "camera_make": "Blackvue",
+                "camera_model": "DR900S-1CH",
+                "captured_at": "2020-10-21T16:18:07.187Z",
+                "key": "00hjIH33oqRG4zhB1OX48r",
+                "pano": false,
+                "sequence_key": "f84nibwu7bbfpb7961l28p",
+                "user_key": "B5HyYbN8z3K-OxqiQNgA2Q",
+                "username": "marciosampaio",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47.1287967,
+                    -23.311155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 190.40803107602596,
+                "camera_make": "Blackvue",
+                "camera_model": "DR900S-1CH",
+                "captured_at": "2020-10-21T16:16:51.190Z",
+                "key": "whyAZrHhmohhBN4ueMevUs",
+                "pano": false,
+                "sequence_key": "if19dpx4htm1uw4mcnklbt",
+                "user_key": "B5HyYbN8z3K-OxqiQNgA2Q",
+                "username": "marciosampaio",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47.1309248,
+                    -23.3072671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 137.43561428554824,
+                "camera_make": "Blackvue",
+                "camera_model": "DR900S-1CH",
+                "captured_at": "2020-10-21T16:16:36.190Z",
+                "key": "3hlTYC2lKRWsm4hsitdS25",
+                "pano": false,
+                "sequence_key": "if19dpx4htm1uw4mcnklbt",
+                "user_key": "B5HyYbN8z3K-OxqiQNgA2Q",
+                "username": "marciosampaio",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47.1309423,
+                    -23.306626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 98.09078979492188,
+                "camera_make": "LGE",
+                "camera_model": "LM-G850",
+                "captured_at": "2020-10-21T15:54:02.428Z",
+                "key": "4XLoiULHDpTWQ30kOmN8Jx",
+                "pano": false,
+                "sequence_key": "tv6wyhcx2vg580wsmuq013",
+                "user_key": "iHt4_tYO-BaYZ2CN62ie4A",
+                "username": "rainerup",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.3994268,
+                    38.766539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 208.575439453125,
+                "camera_make": "LGE",
+                "camera_model": "LM-G850",
+                "captured_at": "2020-10-21T15:50:18.477Z",
+                "key": "qO9DSvTUkRMMcRDbxlXLZ3",
+                "pano": false,
+                "sequence_key": "tv6wyhcx2vg580wsmuq013",
+                "user_key": "iHt4_tYO-BaYZ2CN62ie4A",
+                "username": "rainerup",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.4063227,
+                    38.7711972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 204.68018995316788,
+                "camera_make": "Blackvue",
+                "camera_model": "DR900S-1CH",
+                "captured_at": "2020-10-21T15:20:17.690Z",
+                "key": "IC4oQ9WZ9wYkte03K5fZEB",
+                "pano": false,
+                "sequence_key": "yixjtgmrrz46pmuy5xudyf",
+                "user_key": "B5HyYbN8z3K-OxqiQNgA2Q",
+                "username": "marciosampaio",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47.0263019,
+                    -23.2110105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 70.55722045898438,
+                "camera_make": "LGE",
+                "camera_model": "LM-G850",
+                "captured_at": "2020-10-21T15:19:33.493Z",
+                "key": "kTsxyjQZhKQHYw3zyPK0du",
+                "pano": false,
+                "sequence_key": "slttsv2kj8og5if33c5kgg",
+                "user_key": "iHt4_tYO-BaYZ2CN62ie4A",
+                "username": "rainerup",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7186551,
+                    39.014217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 175.95600553491477,
+                "camera_make": "Blackvue",
+                "camera_model": "DR900S-1CH",
+                "captured_at": "2020-10-21T15:12:55.690Z",
+                "key": "sheBqe6cqz1tr19SCnPBgF",
+                "pano": false,
+                "sequence_key": "4mtx0s12j43oly9ywxdwu8",
+                "user_key": "B5HyYbN8z3K-OxqiQNgA2Q",
+                "username": "marciosampaio",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47.0184192,
+                    -23.2080449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 59.27288818359375,
+                "camera_make": "samsung",
+                "camera_model": "SM-G973F",
+                "captured_at": "2020-10-21T14:30:12.075Z",
+                "key": "nhBTgx11lNrQ1dH94t3Ofk",
+                "pano": false,
+                "sequence_key": "1pok4sozqr3rhdx2wrjmjm",
+                "user_key": "zp30vjlEfGf9QDbyOUyBIQ",
+                "username": "kami911",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7591975,
+                    47.449573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 276.837324531984,
+                "camera_make": "Blackvue",
+                "camera_model": "DR900S-1CH",
+                "captured_at": "2020-10-21T13:39:28.690Z",
+                "key": "1NnGtu2MLq1eU86cIKSDH5",
+                "pano": false,
+                "sequence_key": "h3exf4vqlq7pgev4yl7cf5",
+                "user_key": "PGXN_576UYcGCzP_eU2pnA",
+                "username": "jorrarro",
+                "quality_score": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1970706,
+                    59.3643229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 89.69564819335938,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 7",
+                "captured_at": "2020-10-21T12:36:24.786Z",
+                "key": "Q78EUi6dUusGSeTOM1JJix",
+                "pano": false,
+                "sequence_key": "918dcicecxc5b3336gafr2",
+                "user_key": "qKpttBGRziGyv2tJhrSRqw",
+                "username": "miguel_andrade",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0018992,
+                    49.6557154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 99.43460369110107,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 7",
+                "captured_at": "2020-10-21T12:34:15.786Z",
+                "key": "5cw3uZ4tYGqHKrNH1LmGnx",
+                "pano": false,
+                "sequence_key": "vbb8z3tq4rdb70rg7p08oy",
+                "user_key": "qKpttBGRziGyv2tJhrSRqw",
+                "username": "miguel_andrade",
+                "quality_score": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0000336,
+                    49.6560265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 215.20074479686764,
+                "camera_make": "Blackvue",
+                "camera_model": "DR900S-1CH",
+                "captured_at": "2020-10-21T12:31:51.964Z",
+                "key": "xRztdS6qaB1NyIbwLDPvtz",
+                "pano": false,
+                "sequence_key": "5zkwrs8oya15u8h758tlzj",
+                "user_key": "oCpAlhBsAFW9BTOlWUygYw",
+                "username": "algot",
+                "quality_score": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.7777741,
+                    48.423416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 216.1239772904746,
+                "camera_make": "Blackvue",
+                "camera_model": "DR900S-1CH",
+                "captured_at": "2020-10-21T12:31:45.407Z",
+                "key": "oiJAixzrr9FVT1LvldiFF0",
+                "pano": false,
+                "sequence_key": "rw6xy9lw9mh7zxw445l68a",
+                "user_key": "oCpAlhBsAFW9BTOlWUygYw",
+                "username": "algot",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.7784423,
+                    48.4240369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 218.13478216638998,
+                "camera_make": "Blackvue",
+                "camera_model": "DR900S-1CH",
+                "captured_at": "2020-10-21T12:29:48.964Z",
+                "key": "g1TH8uVBVLjBwnKkhQngrx",
+                "pano": false,
+                "sequence_key": "3a4scgddal7uqb2pg36bd8",
+                "user_key": "oCpAlhBsAFW9BTOlWUygYw",
+                "username": "algot",
+                "quality_score": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.7925663,
+                    48.4366745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 273.7047782999041,
+                "camera_make": "Blackvue",
+                "camera_model": "DR900S-1CH",
+                "captured_at": "2020-10-21T12:29:09.463Z",
+                "key": "OO9h1DyOhXhtR76VVUWLiB",
+                "pano": false,
+                "sequence_key": "l72qp9pyvba2hao6htv1mc",
+                "user_key": "oCpAlhBsAFW9BTOlWUygYw",
+                "username": "algot",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.7984671,
+                    48.4378751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 272.8392574737692,
+                "camera_make": "Blackvue",
+                "camera_model": "DR900S-1CH",
+                "captured_at": "2020-10-21T12:28:28.463Z",
+                "key": "sd8eQV1BsNVPhxawVRYAPX",
+                "pano": false,
+                "sequence_key": "l72qp9pyvba2hao6htv1mc",
+                "user_key": "oCpAlhBsAFW9BTOlWUygYw",
+                "username": "algot",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8047487,
+                    48.4375827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 208.2130139896327,
+                "camera_make": "Blackvue",
+                "camera_model": "DR900S-1CH",
+                "captured_at": "2020-10-21T12:28:05.463Z",
+                "key": "5SDeg6sgs3mcsIrJUMW321",
+                "pano": false,
+                "sequence_key": "oek6pz8l5wfqj30l0h2dny",
+                "user_key": "oCpAlhBsAFW9BTOlWUygYw",
+                "username": "algot",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8065045,
+                    48.4384307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 88.1829833984375,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 7",
+                "captured_at": "2020-10-21T12:24:58.280Z",
+                "key": "GRnYVVQ9Vlj1T2qKpQqZiE",
+                "pano": false,
+                "sequence_key": "t9n3tkyp0bf0o6hxxk00yl",
+                "user_key": "qKpttBGRziGyv2tJhrSRqw",
+                "username": "miguel_andrade",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9924425,
+                    49.655562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 123.0019760131836,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 7",
+                "captured_at": "2020-10-21T12:15:56.302Z",
+                "key": "nErmo2GTt8Uj27swAishGt",
+                "pano": false,
+                "sequence_key": "w7fhpro4079witqgx73b7f",
+                "user_key": "qKpttBGRziGyv2tJhrSRqw",
+                "username": "miguel_andrade",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9895757,
+                    49.6575069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 0,
+                "camera_make": "GoPro",
+                "camera_model": "GoPro Max",
+                "captured_at": "2020-10-21T12:09:39.000Z",
+                "key": "f1vgID1oPT7BAaoVFuFFlm",
+                "pano": true,
+                "sequence_key": "211w5ran75sh7t0jaycw3h",
+                "user_key": "LAeOlD92O8da4XQwoQiQMH",
+                "username": "rescuestation",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.2123168,
+                    53.8532173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 117.47493743896484,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 7",
+                "captured_at": "2020-10-21T12:08:21.005Z",
+                "key": "Gj2KGDdMrpQuFE91QvGhGW",
+                "pano": false,
+                "sequence_key": "6jez8yeyf0xcuia1e9dub8",
+                "user_key": "qKpttBGRziGyv2tJhrSRqw",
+                "username": "miguel_andrade",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9836452,
+                    49.6577968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 0,
+                "camera_make": "GoPro",
+                "camera_model": "GoPro Max",
+                "captured_at": "2020-10-21T12:05:08.000Z",
+                "key": "VeyB1m8yqnAOwxUSLhEvMr",
+                "pano": true,
+                "sequence_key": "211w5ran75sh7t0jaycw3h",
+                "user_key": "LAeOlD92O8da4XQwoQiQMH",
+                "username": "rescuestation",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.2123099,
+                    53.8530716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 0,
+                "camera_make": "GoPro",
+                "camera_model": "GoPro Max",
+                "captured_at": "2020-10-21T12:04:44.000Z",
+                "key": "0lkrvLbIXarmS7JUEB0kot",
+                "pano": true,
+                "sequence_key": "211w5ran75sh7t0jaycw3h",
+                "user_key": "LAeOlD92O8da4XQwoQiQMH",
+                "username": "rescuestation",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.2125679,
+                    53.8533347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 0,
+                "camera_make": "GoPro",
+                "camera_model": "GoPro Max",
+                "captured_at": "2020-10-21T12:00:45.000Z",
+                "key": "Lvyu0zVAxMFz0eTCKSgUJO",
+                "pano": true,
+                "sequence_key": "211w5ran75sh7t0jaycw3h",
+                "user_key": "LAeOlD92O8da4XQwoQiQMH",
+                "username": "rescuestation",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.2146587,
+                    53.8518445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 205.52277452067324,
+                "camera_make": "Blackvue",
+                "camera_model": "DR900S-1CH",
+                "captured_at": "2020-10-21T11:57:12.963Z",
+                "key": "BykdrYagmdU6nRyQTiyHUb",
+                "pano": false,
+                "sequence_key": "65butny3j1m8mjaxs3g7ut",
+                "user_key": "oCpAlhBsAFW9BTOlWUygYw",
+                "username": "algot",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8815449,
+                    48.454414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 206.67053458127532,
+                "camera_make": "Blackvue",
+                "camera_model": "DR900S-1CH",
+                "captured_at": "2020-10-21T11:57:05.463Z",
+                "key": "HssUV1ghQXwcJd6f08VrvO",
+                "pano": false,
+                "sequence_key": "65butny3j1m8mjaxs3g7ut",
+                "user_key": "oCpAlhBsAFW9BTOlWUygYw",
+                "username": "algot",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8819512,
+                    48.4549903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 65.13168334960938,
+                "camera_make": "samsung",
+                "camera_model": "SM-G975F",
+                "captured_at": "2020-10-21T11:01:02.094Z",
+                "key": "OnOW8ZYSCr1OOjjXEeMQid",
+                "pano": false,
+                "sequence_key": "0md3vkiy7xo6ltodtt1vbi",
+                "user_key": "sxeLOlK6K4HASFAslecvBl",
+                "username": "sarkhan36",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.7789605,
+                    40.3726735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 224.97189331054688,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 7",
+                "captured_at": "2020-10-21T10:55:41.537Z",
+                "key": "JnPQBsKDAoCFs47b67jOil",
+                "pano": false,
+                "sequence_key": "unmxpncwme2fgbsa6rxckc",
+                "user_key": "qKpttBGRziGyv2tJhrSRqw",
+                "username": "miguel_andrade",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9816656,
+                    49.65255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 218.07989501953125,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 7",
+                "captured_at": "2020-10-21T10:42:53.309Z",
+                "key": "f1oSegmVSeBTJGjCMwZwnt",
+                "pano": false,
+                "sequence_key": "pmldbeys52nle85odf31mu",
+                "user_key": "qKpttBGRziGyv2tJhrSRqw",
+                "username": "miguel_andrade",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.981816,
+                    49.6523676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 227.17861938476562,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 7",
+                "captured_at": "2020-10-21T10:39:52.837Z",
+                "key": "rep2cp1EKcgCCkoJws25CV",
+                "pano": false,
+                "sequence_key": "d1rn2nhp5ft4lhgti1xt3q",
+                "user_key": "qKpttBGRziGyv2tJhrSRqw",
+                "username": "miguel_andrade",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9834575,
+                    49.653203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 170.95916748046875,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 7",
+                "captured_at": "2020-10-21T10:32:32.545Z",
+                "key": "aH2jrvORWBSIpcagdLlbSV",
+                "pano": false,
+                "sequence_key": "e9r74d3g5cc969gwmuqzaj",
+                "user_key": "qKpttBGRziGyv2tJhrSRqw",
+                "username": "miguel_andrade",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.985321,
+                    49.6548681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 238.5994873046875,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 7",
+                "captured_at": "2020-10-21T10:17:14.809Z",
+                "key": "VfhN0FZPn60Y4uWvfXySwu",
+                "pano": false,
+                "sequence_key": "e4vpu485w9cpeaadntl8x5",
+                "user_key": "qKpttBGRziGyv2tJhrSRqw",
+                "username": "miguel_andrade",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9888242,
+                    49.6557952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 332.0794677734375,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 7",
+                "captured_at": "2020-10-21T09:55:59.564Z",
+                "key": "BOxnpbNA9l0bOIJ1CQR8qL",
+                "pano": false,
+                "sequence_key": "8ee05uxxcado1rwjf6yy3i",
+                "user_key": "qKpttBGRziGyv2tJhrSRqw",
+                "username": "miguel_andrade",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9908731,
+                    49.6564317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 280.2489013671875,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 7",
+                "captured_at": "2020-10-21T09:49:35.878Z",
+                "key": "LAGVL00MfUk5RF1xbm31XL",
+                "pano": false,
+                "sequence_key": "dwpqpfi7t0l2ek4fnstq1k",
+                "user_key": "qKpttBGRziGyv2tJhrSRqw",
+                "username": "miguel_andrade",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9924891,
+                    49.6550525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 266.6127014160156,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 7",
+                "captured_at": "2020-10-21T09:49:11.184Z",
+                "key": "8Ot0C2GpIfvEq4NVJgibh8",
+                "pano": false,
+                "sequence_key": "dwpqpfi7t0l2ek4fnstq1k",
+                "user_key": "qKpttBGRziGyv2tJhrSRqw",
+                "username": "miguel_andrade",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9927906,
+                    49.654975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 256.54193115234375,
+                "camera_make": "samsung",
+                "camera_model": "SM-G950F",
+                "captured_at": "2020-10-21T09:39:37.881Z",
+                "key": "syuMmIfr675b0BTxTyCylY",
+                "pano": false,
+                "sequence_key": "02tce8fhcnabmv6c5c4peh",
+                "user_key": "jX3ul1CC7ybu5-byKQRmjQ",
+                "username": "masterofnoroad",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.461005,
+                    53.3746698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 287.74831335567376,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 7",
+                "captured_at": "2020-10-21T09:16:32.168Z",
+                "key": "bHJy91qyZlSFCicogR3TFe",
+                "pano": false,
+                "sequence_key": "uq58rks0w4f2i8rww5y3wg",
+                "user_key": "qKpttBGRziGyv2tJhrSRqw",
+                "username": "miguel_andrade",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0112077,
+                    49.6613779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 166.81915283203125,
+                "camera_make": "Xiaomi",
+                "camera_model": "Mi A2",
+                "captured_at": "2020-10-21T09:05:38.641Z",
+                "key": "BnicHEIhIVDr05FTdSKifu",
+                "pano": false,
+                "sequence_key": "1sxwds02h3vpvwnowatsvv",
+                "user_key": "wA55v1R79fPLfYv9MlI0xQ",
+                "username": "mikki65",
+                "quality_score": 4,
+                "organization_key": "2xeae8fh8msSkSdF17m2oC",
+                "private": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2616968,
+                    45.7265383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 85.70193481445312,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 11 Pro Max",
+                "captured_at": "2020-10-21T09:01:26.784Z",
+                "key": "RReN9vu1IOLavbWfEuyeMC",
+                "pano": false,
+                "sequence_key": "r78z72hfgp9z162e2xmrhx",
+                "user_key": "3GxDNX9upj5GLFcVcXThmX",
+                "username": "manakino",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6512764,
+                    55.5982222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 251.0136276116756,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 7",
+                "captured_at": "2020-10-21T08:06:21.277Z",
+                "key": "MzzA6GqIq8wwr0byX6fnMI",
+                "pano": false,
+                "sequence_key": "ca3oa200n5qepuy3iez9w9",
+                "user_key": "qKpttBGRziGyv2tJhrSRqw",
+                "username": "miguel_andrade",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.1180042,
+                    49.8469858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 211.02638244628906,
+                "camera_make": "Google",
+                "camera_model": "Pixel 3a",
+                "captured_at": "2020-10-21T08:01:42.987Z",
+                "key": "CZofhh1rAt9QIq3ounVc8D",
+                "pano": false,
+                "sequence_key": "f80x16qpd71mqyuwfk25xl",
+                "user_key": "fzI3WSJ5LhcczOe38NXWuA",
+                "username": "gwalker7",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4131057,
+                    35.6602725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 26.990386962890625,
+                "camera_make": "unknown",
+                "camera_model": "unknown",
+                "captured_at": "2020-10-21T07:57:41.844Z",
+                "key": "nafUX531WtBiuCer52C1dw",
+                "pano": false,
+                "sequence_key": "ow8gy14r6t96g7grbf04yi",
+                "user_key": "W1LkbZE6wCdkHvrRZjVqZw",
+                "username": "phoneuploader",
+                "quality_score": 4,
+                "organization_key": "xzzdmYfRcWbsZtNphalB6V",
+                "private": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.3233089,
+                    53.283769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 339.75823974609375,
+                "camera_make": "Xiaomi",
+                "camera_model": "Mi A2",
+                "captured_at": "2020-10-21T07:48:58.648Z",
+                "key": "kaU0H9wJCd7ZJdPTZGIzEK",
+                "pano": false,
+                "sequence_key": "d14wsqva8t5d84v4pyjq97",
+                "user_key": "wA55v1R79fPLfYv9MlI0xQ",
+                "username": "mikki65",
+                "quality_score": 5,
+                "organization_key": "2xeae8fh8msSkSdF17m2oC",
+                "private": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2597874,
+                    45.7499803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 126.56113729999998,
+                "camera_make": "Trimble",
+                "camera_model": "Trimble MX7",
+                "captured_at": "2020-10-20T22:16:58.937Z",
+                "key": "1Bufkt3Lt7ujS6tSguWm19",
+                "pano": true,
+                "sequence_key": "3499jg5ls8973m57aofgeg",
+                "user_key": "inNTEMNLsyrvI_P3SSrpCw",
+                "username": "rking",
+                "quality_score": 4,
+                "organization_key": "m8PDdZvukxyCvCKwhGMLnn",
+                "private": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.6297842,
+                    28.6044522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 21.926910400390625,
+                "camera_make": "LGE",
+                "camera_model": "LM-G850",
+                "captured_at": "2020-10-20T17:38:01.672Z",
+                "key": "QsqCP5FFPVek8hIDcudTqC",
+                "pano": false,
+                "sequence_key": "imu11sgll6bww05l73ntv5",
+                "user_key": "iHt4_tYO-BaYZ2CN62ie4A",
+                "username": "rainerup",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.0069144,
+                    38.8810288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 0,
+                "camera_make": "SAMSUNG",
+                "camera_model": "SM-C200",
+                "captured_at": "2020-10-20T17:15:15.516Z",
+                "key": "SVcstf1K4o6mWErBR7rRS3",
+                "pano": true,
+                "sequence_key": "3yetix5h6pv3fvzlgz9s9t",
+                "user_key": "TiRh5GvAODV0M21IyYOq4Q",
+                "username": "emanuel_alejandro_maciel_587",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.141875,
+                    -27.397604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 201.62551879882812,
+                "camera_make": "LGE",
+                "camera_model": "LM-G850",
+                "captured_at": "2020-10-20T16:30:09.648Z",
+                "key": "bIDg8wugOvH6DHWJ7BZmjV",
+                "pano": false,
+                "sequence_key": "8ul38xlpsb00x2liz0ge0d",
+                "user_key": "iHt4_tYO-BaYZ2CN62ie4A",
+                "username": "rainerup",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.0072918,
+                    38.8808216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 21.514892578125,
+                "camera_make": "HUAWEI",
+                "camera_model": "VOG-L29",
+                "captured_at": "2020-10-20T16:00:34.440Z",
+                "key": "4uJk7SboTx6F7BDr9EVqnM",
+                "pano": false,
+                "sequence_key": "7n061o176cz3431arvqent",
+                "user_key": "fZyFYFDtNEqjv6h6EZhoui",
+                "username": "imjeremy",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0377676,
+                    52.3285746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 17.3358154296875,
+                "camera_make": "HUAWEI",
+                "camera_model": "VOG-L29",
+                "captured_at": "2020-10-20T15:58:30.331Z",
+                "key": "HFO3ONStkKefafTQYOoAbE",
+                "pano": false,
+                "sequence_key": "7n061o176cz3431arvqent",
+                "user_key": "fZyFYFDtNEqjv6h6EZhoui",
+                "username": "imjeremy",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0306609,
+                    52.3133074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 0,
+                "camera_make": "SAMSUNG",
+                "camera_model": "SM-C200",
+                "captured_at": "2020-10-20T15:50:55.814Z",
+                "key": "S1pToU4ZwjJcM6BURdhtmU",
+                "pano": true,
+                "sequence_key": "2gz3jun6qoevkh89fxao0z",
+                "user_key": "TiRh5GvAODV0M21IyYOq4Q",
+                "username": "emanuel_alejandro_maciel_587",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.1365982,
+                    -27.3882383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 195.95318603515625,
+                "camera_make": "HUAWEI",
+                "camera_model": "VOG-L29",
+                "captured_at": "2020-10-20T15:50:39.448Z",
+                "key": "yIll1vkM2wuxiAePofTRbS",
+                "pano": false,
+                "sequence_key": "7n061o176cz3431arvqent",
+                "user_key": "fZyFYFDtNEqjv6h6EZhoui",
+                "username": "imjeremy",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0303286,
+                    52.312598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 198.31427001953125,
+                "camera_make": "HUAWEI",
+                "camera_model": "VOG-L29",
+                "captured_at": "2020-10-20T15:50:30.451Z",
+                "key": "2wysHoVFd4eRMynD1Ppm9y",
+                "pano": false,
+                "sequence_key": "7n061o176cz3431arvqent",
+                "user_key": "fZyFYFDtNEqjv6h6EZhoui",
+                "username": "imjeremy",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0306001,
+                    52.3131823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 182.6951446533203,
+                "camera_make": "HUAWEI",
+                "camera_model": "VOG-L29",
+                "captured_at": "2020-10-20T15:43:03.491Z",
+                "key": "hIxATVTHy6W64H2CUHJdzz",
+                "pano": false,
+                "sequence_key": "r0tc7na669vn74b1co76ie",
+                "user_key": "fZyFYFDtNEqjv6h6EZhoui",
+                "username": "imjeremy",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0542944,
+                    52.3796657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 148.5498046875,
+                "camera_make": "HUAWEI",
+                "camera_model": "ELE-L29",
+                "captured_at": "2020-10-20T15:30:06.981Z",
+                "key": "2TR2ker8IpJCVe9fg4okNa",
+                "pano": false,
+                "sequence_key": "chqzdq4nvbbhyo7963cd8u",
+                "user_key": "wMcCWCI6TwBBIcKBDqr6Y7",
+                "username": "klerik7",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2371007,
+                    48.8114438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 124.60348510742188,
+                "camera_make": "HUAWEI",
+                "camera_model": "ELE-L29",
+                "captured_at": "2020-10-20T15:14:44.933Z",
+                "key": "N9C9iZzPpDI73BprTngGGF",
+                "pano": false,
+                "sequence_key": "chqzdq4nvbbhyo7963cd8u",
+                "user_key": "wMcCWCI6TwBBIcKBDqr6Y7",
+                "username": "klerik7",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2327739,
+                    48.821291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 105.88461689728342,
+                "camera_make": "Apple",
+                "camera_model": "iPhone SE",
+                "captured_at": "2020-10-20T14:54:20.730Z",
+                "key": "Zjex3IxC3hqRe8J43lp3R5",
+                "pano": false,
+                "sequence_key": "3ea8vnznl1smaswpbec5d2",
+                "user_key": "aVt-ErZ-Dxy4643o4VGdtg",
+                "username": "changchun1",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4185563,
+                    49.4682748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 232.307192,
+                "camera_make": "Trimble",
+                "camera_model": "Trimble MX7",
+                "captured_at": "2020-10-20T14:33:43.704Z",
+                "key": "ZQlpr7h4p22wjJfrFGXmyq",
+                "pano": true,
+                "sequence_key": "t3ll5vml9vv3aqcu9uayo3",
+                "user_key": "inNTEMNLsyrvI_P3SSrpCw",
+                "username": "rking",
+                "quality_score": 5,
+                "organization_key": "m8PDdZvukxyCvCKwhGMLnn",
+                "private": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.6311658,
+                    28.604215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 51.90562649999998,
+                "camera_make": "Trimble",
+                "camera_model": "Trimble MX7",
+                "captured_at": "2020-10-20T14:29:39.239Z",
+                "key": "vftNrg694kfPfD1gtd5KcF",
+                "pano": true,
+                "sequence_key": "826c5rkq4trirjb0x92y4o",
+                "user_key": "inNTEMNLsyrvI_P3SSrpCw",
+                "username": "rking",
+                "quality_score": 3,
+                "organization_key": "m8PDdZvukxyCvCKwhGMLnn",
+                "private": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.6304461,
+                    28.6037289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 227.380492,
+                "camera_make": "Trimble",
+                "camera_model": "Trimble MX7",
+                "captured_at": "2020-10-20T14:27:51.514Z",
+                "key": "5MUuNdRTO5gMeYO252Fzrm",
+                "pano": true,
+                "sequence_key": "826c5rkq4trirjb0x92y4o",
+                "user_key": "inNTEMNLsyrvI_P3SSrpCw",
+                "username": "rking",
+                "quality_score": 5,
+                "organization_key": "m8PDdZvukxyCvCKwhGMLnn",
+                "private": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.6287594,
+                    28.6036928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 227.54403920000004,
+                "camera_make": "Trimble",
+                "camera_model": "Trimble MX7",
+                "captured_at": "2020-10-20T14:27:30.074Z",
+                "key": "AncFOZ4VEoMtVemY15BX1M",
+                "pano": true,
+                "sequence_key": "826c5rkq4trirjb0x92y4o",
+                "user_key": "inNTEMNLsyrvI_P3SSrpCw",
+                "username": "rking",
+                "quality_score": 4,
+                "organization_key": "m8PDdZvukxyCvCKwhGMLnn",
+                "private": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.6294972,
+                    28.6034711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 230.63291660000004,
+                "camera_make": "Trimble",
+                "camera_model": "Trimble MX7",
+                "captured_at": "2020-10-20T14:27:10.765Z",
+                "key": "cn6PaN9iyVqokHudshPnQc",
+                "pano": true,
+                "sequence_key": "826c5rkq4trirjb0x92y4o",
+                "user_key": "inNTEMNLsyrvI_P3SSrpCw",
+                "username": "rking",
+                "quality_score": 5,
+                "organization_key": "m8PDdZvukxyCvCKwhGMLnn",
+                "private": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.6299519,
+                    28.6029483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 231.169312,
+                "camera_make": "Trimble",
+                "camera_model": "Trimble MX7",
+                "captured_at": "2020-10-20T14:14:21.134Z",
+                "key": "X0NaoY5uY7iObjRO3Biqqe",
+                "pano": true,
+                "sequence_key": "xxz1ako33b0u2iz6gsxasa",
+                "user_key": "inNTEMNLsyrvI_P3SSrpCw",
+                "username": "rking",
+                "quality_score": 4,
+                "organization_key": "m8PDdZvukxyCvCKwhGMLnn",
+                "private": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.6291039,
+                    28.6025903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 0,
+                "camera_make": "Insta360",
+                "camera_model": "Insta360 Pro",
+                "captured_at": "2020-10-20T14:07:25.000Z",
+                "key": "c8drzjfEiZc9oXv53ShHPv",
+                "pano": true,
+                "sequence_key": "35k8tkz5p3cu9gmkc50mm5",
+                "user_key": "nfsCPM01iqhBi6nK5N4o6g",
+                "username": "ctroadway360",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.4414215,
+                    41.9641533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 0,
+                "camera_make": "Insta360",
+                "camera_model": "Insta360 Pro",
+                "captured_at": "2020-10-20T13:56:57.000Z",
+                "key": "2MHhVJT3PmNN0PrDBZ3KLq",
+                "pano": true,
+                "sequence_key": "35k8tkz5p3cu9gmkc50mm5",
+                "user_key": "nfsCPM01iqhBi6nK5N4o6g",
+                "username": "ctroadway360",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.4458542,
+                    41.9639206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 0,
+                "camera_make": "Insta360",
+                "camera_model": "Insta360 Pro",
+                "captured_at": "2020-10-20T13:54:49.000Z",
+                "key": "oOlf5NT5ukT99jyS78tDpP",
+                "pano": true,
+                "sequence_key": "35k8tkz5p3cu9gmkc50mm5",
+                "user_key": "nfsCPM01iqhBi6nK5N4o6g",
+                "username": "ctroadway360",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.4457626,
+                    41.9638596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 0,
+                "camera_make": "Insta360",
+                "camera_model": "Insta360 Pro",
+                "captured_at": "2020-10-20T13:53:41.000Z",
+                "key": "JO5x2Qtz6lqNCvyTMvuTWL",
+                "pano": true,
+                "sequence_key": "35k8tkz5p3cu9gmkc50mm5",
+                "user_key": "nfsCPM01iqhBi6nK5N4o6g",
+                "username": "ctroadway360",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.4463577,
+                    41.963871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 0,
+                "camera_make": "Insta360",
+                "camera_model": "Insta360 Pro",
+                "captured_at": "2020-10-20T13:47:13.000Z",
+                "key": "dWuYw8oekGgEWTe1a1HcA8",
+                "pano": true,
+                "sequence_key": "35k8tkz5p3cu9gmkc50mm5",
+                "user_key": "nfsCPM01iqhBi6nK5N4o6g",
+                "username": "ctroadway360",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.4524307,
+                    41.9620323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 0,
+                "camera_make": "Insta360",
+                "camera_model": "Insta360 Pro",
+                "captured_at": "2020-10-20T13:31:57.000Z",
+                "key": "7SO3neQI2kMbR7vfuJaugy",
+                "pano": true,
+                "sequence_key": "qvv871ahv8bg82pxcqk51s",
+                "user_key": "nfsCPM01iqhBi6nK5N4o6g",
+                "username": "ctroadway360",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.4708252,
+                    41.9557381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 0,
+                "camera_make": "Insta360",
+                "camera_model": "Insta360 Pro",
+                "captured_at": "2020-10-20T13:31:41.000Z",
+                "key": "4mp85GLIJ7sFDbgEyV404q",
+                "pano": true,
+                "sequence_key": "qvv871ahv8bg82pxcqk51s",
+                "user_key": "nfsCPM01iqhBi6nK5N4o6g",
+                "username": "ctroadway360",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.4711914,
+                    41.9554634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 0,
+                "camera_make": "Insta360",
+                "camera_model": "Insta360 Pro",
+                "captured_at": "2020-10-20T13:31:25.000Z",
+                "key": "mWebrdxlSj6ifceqdh0JqE",
+                "pano": true,
+                "sequence_key": "qvv871ahv8bg82pxcqk51s",
+                "user_key": "nfsCPM01iqhBi6nK5N4o6g",
+                "username": "ctroadway360",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.4715424,
+                    41.9551888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 0,
+                "camera_make": "Insta360",
+                "camera_model": "Insta360 Pro",
+                "captured_at": "2020-10-20T13:09:49.000Z",
+                "key": "ZGnudcXwOIV28cvXfUP18Q",
+                "pano": true,
+                "sequence_key": "qvv871ahv8bg82pxcqk51s",
+                "user_key": "nfsCPM01iqhBi6nK5N4o6g",
+                "username": "ctroadway360",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.4902878,
+                    41.9541321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 0,
+                "camera_make": "Insta360",
+                "camera_model": "Insta360 Pro",
+                "captured_at": "2020-10-20T13:07:14.000Z",
+                "key": "67n742dMFndegZFgo2pcig",
+                "pano": true,
+                "sequence_key": "jsba9gisi00h0w4f9xncgp",
+                "user_key": "nfsCPM01iqhBi6nK5N4o6g",
+                "username": "ctroadway360",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.5222015,
+                    41.7983208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 5.944448723842356,
+                "camera_make": "Apple",
+                "camera_model": "iPhone SE",
+                "captured_at": "2020-10-20T12:56:18.188Z",
+                "key": "2muY4noBozmwZ5MdoImqtk",
+                "pano": false,
+                "sequence_key": "p54hc2diq6tj3ymzlartmx",
+                "user_key": "aVt-ErZ-Dxy4643o4VGdtg",
+                "username": "changchun1",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4469577,
+                    49.4948882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 15.267009404962778,
+                "camera_make": "Apple",
+                "camera_model": "iPhone SE",
+                "captured_at": "2020-10-20T12:56:04.629Z",
+                "key": "MVuDU2Eqks5ao9XxTEDi6f",
+                "pano": false,
+                "sequence_key": "p54hc2diq6tj3ymzlartmx",
+                "user_key": "aVt-ErZ-Dxy4643o4VGdtg",
+                "username": "changchun1",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4469588,
+                    49.4945394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 1.9986299887717678,
+                "camera_make": "Apple",
+                "camera_model": "iPhone SE",
+                "captured_at": "2020-10-20T12:52:14.227Z",
+                "key": "3dpBz1f9j69W8JNAtN1Q8l",
+                "pano": false,
+                "sequence_key": "t6kuwa2tsui9rmqigm261q",
+                "user_key": "aVt-ErZ-Dxy4643o4VGdtg",
+                "username": "changchun1",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.447114,
+                    49.4937265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 313.04182282811007,
+                "camera_make": "Apple",
+                "camera_model": "iPhone SE",
+                "captured_at": "2020-10-20T12:48:03.196Z",
+                "key": "Wgdift2c6zSKhcjJA3a2rQ",
+                "pano": false,
+                "sequence_key": "t6kuwa2tsui9rmqigm261q",
+                "user_key": "aVt-ErZ-Dxy4643o4VGdtg",
+                "username": "changchun1",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4523187,
+                    49.4876485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 178.2552490234375,
+                "camera_make": "samsung",
+                "camera_model": "SM-A5070",
+                "captured_at": "2020-10-20T11:52:48.942Z",
+                "key": "3iT6Wmn4BYmFyD6GWp08Vd",
+                "pano": false,
+                "sequence_key": "8yx9cbj3ewbvilrg5kujl1",
+                "user_key": "ZyE8GfWl47XtCh46HFCBtg",
+                "username": "abdeslem",
+                "quality_score": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6173197,
+                    36.2974327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 137.56796877946016,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 11",
+                "captured_at": "2020-10-20T11:35:48.642Z",
+                "key": "sFYKrMuDuXFPVmBEW8YSMb",
+                "pano": false,
+                "sequence_key": "c7im2rtzvs1uqtu31uw1cq",
+                "user_key": "DHaOvbDwBkx0i8nCMGDn6R",
+                "username": "googie0815",
+                "quality_score": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2047553,
+                    48.1114164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 289.6778229021346,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 7",
+                "captured_at": "2020-10-20T10:30:01.285Z",
+                "key": "6p3PzeyhzWoZLf1OeujmXj",
+                "pano": false,
+                "sequence_key": "4p928i5xna6y85gpgurse7",
+                "user_key": "qKpttBGRziGyv2tJhrSRqw",
+                "username": "miguel_andrade",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2867179,
+                    50.0090257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 206.1619873046875,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 7",
+                "captured_at": "2020-10-20T10:23:59.585Z",
+                "key": "RuWF5SIxupZGtu9cu5rH62",
+                "pano": false,
+                "sequence_key": "kal5tarpdo4qqxrrffkye9",
+                "user_key": "qKpttBGRziGyv2tJhrSRqw",
+                "username": "miguel_andrade",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2843236,
+                    50.0091987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 219.2311248779297,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 7",
+                "captured_at": "2020-10-20T10:21:11.355Z",
+                "key": "JRHCDXngq0j40BR4i8fH0v",
+                "pano": false,
+                "sequence_key": "kal5tarpdo4qqxrrffkye9",
+                "user_key": "qKpttBGRziGyv2tJhrSRqw",
+                "username": "miguel_andrade",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2831435,
+                    50.0094001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 234.0933837890625,
+                "camera_make": "unknown",
+                "camera_model": "unknown",
+                "captured_at": "2020-10-20T10:13:17.776Z",
+                "key": "xqLoATdWfL3avKL2-zuJzQ",
+                "pano": false,
+                "sequence_key": "t1ak9e3os50szyfswj6udx",
+                "user_key": "W1LkbZE6wCdkHvrRZjVqZw",
+                "username": "phoneuploader",
+                "quality_score": 4,
+                "organization_key": "xzzdmYfRcWbsZtNphalB6V",
+                "private": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.9463267,
+                    56.3214307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 56.15960693359375,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 7",
+                "captured_at": "2020-10-20T10:06:13.536Z",
+                "key": "N8CxuECUk3sceilyWR6GOG",
+                "pano": false,
+                "sequence_key": "3texep2cdauxqjhfcolewn",
+                "user_key": "qKpttBGRziGyv2tJhrSRqw",
+                "username": "miguel_andrade",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.286535,
+                    50.0083537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 95.86088275909424,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 7",
+                "captured_at": "2020-10-20T09:36:39.370Z",
+                "key": "bEajOeoaTTgWHxJOT7zTZB",
+                "pano": false,
+                "sequence_key": "7ihkfxddkyla4eats8o9fv",
+                "user_key": "qKpttBGRziGyv2tJhrSRqw",
+                "username": "miguel_andrade",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2804928,
+                    50.0221324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 97.86914920806885,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 7",
+                "captured_at": "2020-10-20T09:35:48.797Z",
+                "key": "iDhpHsyoAlF7bJRAlXxZ3S",
+                "pano": false,
+                "sequence_key": "7ihkfxddkyla4eats8o9fv",
+                "user_key": "qKpttBGRziGyv2tJhrSRqw",
+                "username": "miguel_andrade",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2804212,
+                    50.0204067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 86.28860473632812,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 7",
+                "captured_at": "2020-10-20T09:35:44.792Z",
+                "key": "SPDu26wGrGekQOKFnws9Po",
+                "pano": false,
+                "sequence_key": "7ihkfxddkyla4eats8o9fv",
+                "user_key": "qKpttBGRziGyv2tJhrSRqw",
+                "username": "miguel_andrade",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2804463,
+                    50.0202664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 87.816650390625,
+                "camera_make": "Apple",
+                "camera_model": "iPhone 7",
+                "captured_at": "2020-10-20T09:34:32.828Z",
+                "key": "v5hUCh5okVsNaGpm8VuDy1",
+                "pano": false,
+                "sequence_key": "7ihkfxddkyla4eats8o9fv",
+                "user_key": "qKpttBGRziGyv2tJhrSRqw",
+                "username": "miguel_andrade",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2802933,
+                    50.0178779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ca": 167.71435546875,
+                "camera_make": "samsung",
+                "camera_model": "SM-G981B",
+                "captured_at": "2020-10-20T08:47:13.376Z",
+                "key": "WBsVzxa5Ss4lo1Qri0cUj4",
+                "pano": false,
+                "sequence_key": "ajc71m99ie6m0zkjwxga7l",
+                "user_key": "rvN0CxdtM8DRkIzFSlFUxi",
+                "username": "mappi0920",
+                "quality_score": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0036746,
+                    51.4133088
+                ]
+            }
+        }
+    ]
+}
