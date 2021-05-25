@@ -6,7 +6,7 @@ import Game from "./pages/Game";
 import Home from './pages/Home';
 
 const App: React.FC = () => {
-  const [gameState, setGameState] = useState<GameState>({round: 0, id: "Z2HdXiZS7l0rYnjahLWo4Q"});
+  const [gameState, setGameState] = useState<GameState>({round: 0, id: "NULL"});
   
   return (
     <Router>
