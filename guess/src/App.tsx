@@ -1,36 +1,23 @@
-import React, { useEffect, useState } from 'react';
-import { client_id } from "./constants"
+import React, { useState } from 'react';
+import { BrowserRouter as Router, Route } from "react-router-dom";
+import GameState from "./types/gameState";
+
+import Game from "./pages/Game";
+import Home from './pages/Home';
 
 const App: React.FC = () => {
-
-  const [dimensions, setDimensions] = useState([0, 0]);
-
-  useEffect(() => {
-    setDimensions([window.innerWidth, window.innerHeight]);
-
-    setTimeout(() => {
-      const viewer = new (window as any).Mapillary.Viewer(
-        "map",
-        client_id,
-        "Z2HdXiZS7l0rYnjahLWo4Q"
-      );
-      
-      console.log(viewer);
-    }, 100)
-  }, []);
-
+  const [gameState, setGameState] = useState<GameState>({round: 0, id: "Z2HdXiZS7l0rYnjahLWo4Q"});
+  
   return (
-    <>
-      {
-        dimensions[0] != 0 ?
-        <div id="map" style={{width: "100%", height: dimensions[1]}}></div>
-        :
-        <h1>
-          Loading
-        </h1>
-      }
-    </>
-  );
+    <Router>
+      <Route exact path="/">
+        <Home set={setGameState} />
+      </Route>
+      <Route exact path="/game">
+        <Game state={gameState} set={setGameState} />
+      </Route>
+    </Router>
+  )
 }
 
 export default App;
