@@ -3,6 +3,8 @@ import { useHistory } from 'react-router';
 import { client_id } from "../constants";
 import GameState from "../types/gameState";
 
+import Map from "../components/Map";
+
 const App: React.FC<{state: GameState, set: Function}> = ({state, set}) => {
 
     const [dimensions, setDimensions] = useState([0, 0]);
@@ -29,7 +31,12 @@ const App: React.FC<{state: GameState, set: Function}> = ({state, set}) => {
         <>
         {
             dimensions[0] != 0 ?
-            <div id="map" style={{width: "100%", height: dimensions[1]}}></div>
+                <div>
+                    <div id="map" style={{width: "100%", height: dimensions[1], zIndex: 0}}></div>
+                    <div style={{position: "absolute", bottom: 20, left: 20, zIndex: 20}}>
+                        <Map />
+                    </div>
+                </div>
             :
             <h1>
             Loading
