@@ -14,8 +14,6 @@ const Home: React.FC<{set: Function}> = ({set}) => {
                 set({round: 0, id: getRandomPlace()});
                 history.push("/game");
             }}>Start</button>
-
-            <Button variant="filled">Hello</Button>
         </div>
     )
 }
