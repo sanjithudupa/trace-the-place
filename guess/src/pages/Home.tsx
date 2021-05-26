@@ -1,4 +1,5 @@
 import React from "react";
+import Button from "react-bootstrap/esm/Button";
 import { useHistory } from "react-router";
 import { getRandomPlace } from "../utils/places";
 
@@ -13,6 +14,8 @@ const Home: React.FC<{set: Function}> = ({set}) => {
                 set({round: 0, id: getRandomPlace()});
                 history.push("/game");
             }}>Start</button>
+
+            <Button variant="filled">Hello</Button>
         </div>
     )
 }

@@ -6,6 +6,7 @@ import Game from "./pages/Game";
 import Home from './pages/Home';
 
 import { mapbox_access_token } from "./constants";
+import Guess from './pages/Guess';
 
 const App: React.FC = () => {
   const [gameState, setGameState] = useState<GameState>({round: 0, id: "NULL"});
@@ -22,6 +23,7 @@ const App: React.FC = () => {
       <Route exact path="/game">
         <Game state={gameState} set={setGameState} />
       </Route>
+      <Route path="/guess" exact component={Guess} />
     </Router>
   )
 }
