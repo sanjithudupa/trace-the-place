@@ -2,30 +2,30 @@ import React, { useEffect } from "react";
 
 const mapboxgl = (window as any).mapboxgl;
 
-const Map: React.FC<{set: Function}> = ({set}) => {
+const DistanceMap: React.FC<{guess: number[], answer: number[]}> = ({guess, answer}) => {
 
     useEffect(() => {
         const map = new mapboxgl.Map({
-            container: "mapbox_map",
+            container: "distance_map",
             style: "mapbox://styles/mapbox/streets-v11",
-            center: [0, 0]
+            center: [0, 0],
+            bounds: new mapboxgl.LngLatBounds(guess, answer)
         });
 
-        const marker = new mapboxgl.Marker({
-            draggable: true
-        }).setLngLat([0, 0]).addTo(map)
+        new mapboxgl.Marker({
+            draggable: false
+        }).setLngLat(guess).addTo(map);
 
-        const onDragEnd = () => {
-            const guess = marker.getLngLat();
-            set([guess.lng, guess.lat]);
-        }
+        new mapboxgl.Marker({
+            draggable: false,
+            color: "#ff5842"
+        }).setLngLat(answer).addTo(map);
 
-        marker.on("dragend", onDragEnd);
     }, [])
 
     return (
-        <div id="mapbox_map" style={{width: 400, height: 300, borderRadius: 25}}></div>
+        <div id="distance_map" style={{width: 600, height: 450, borderRadius: 25}}></div>
     )
 }
 
-export default Map;
+export default DistanceMap;

@@ -10,6 +10,7 @@ import Guess from './pages/Guess';
 
 const App: React.FC = () => {
   const [gameState, setGameState] = useState<GameState>({round: 0, id: "NULL"});
+  const [guesses, setGuesses] = useState([[0, 0], [0, 0]]);
   
   useEffect(() => {
     (window as any).mapboxgl.accessToken = mapbox_access_token;
@@ -21,9 +22,11 @@ const App: React.FC = () => {
         <Home set={setGameState} />
       </Route>
       <Route exact path="/game">
-        <Game state={gameState} set={setGameState} />
+        <Game state={gameState} setGuesses={setGuesses} />
       </Route>
-      <Route path="/guess" exact component={Guess} />
+      <Route exact path="/guess">
+        <Guess guesses={guesses} />
+      </Route>
     </Router>
   )
 }

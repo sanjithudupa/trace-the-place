@@ -8,7 +8,7 @@ import { Button/*, Modal*/ } from 'react-bootstrap';
 
 import { getCoordinates } from "../utils/places";
 
-const App: React.FC<{state: GameState, set: Function}> = ({state, set}) => {
+const App: React.FC<{state: GameState, setGuesses: Function}> = ({state, setGuesses}) => {
 
     const [dimensions, setDimensions] = useState([0, 0]);
     const [guess, setGuess] = useState([0, 0]);
@@ -39,7 +39,9 @@ const App: React.FC<{state: GameState, set: Function}> = ({state, set}) => {
         if (!place)
             return history.push("/");
         
-        history.push(`/guess?guess=${guess[0]},${guess[1]}&answer=${place.coordinates[0]},${place.coordinates[1]}`);
+        setGuesses([guess, place.coordinates]);
+        history.push("/guess");
+        // history.push(`/guess?guess=${guess[0]},${guess[1]}&answer=${place.coordinates[0]},${place.coordinates[1]}`);
         // setAnswer(place.coordinates);
         
         // const offset = getDistanceFromLatLonInKm(guess, place.coordinates);
