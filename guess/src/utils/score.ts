@@ -1,5 +1,5 @@
-const a = 798.6721;
-const b = 0.9995;
+const a = 1531.1209;
+const b = 0.9994;
 
 /*
     x:
