@@ -8,6 +8,8 @@ import Home from './pages/Home';
 import { mapbox_access_token } from "./constants";
 import Guess from './pages/Guess';
 
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 const App: React.FC = () => {
   const [gameState, setGameState] = useState<GameState>({round: 0, id: "NULL", score: 0});
   const [guesses, setGuesses] = useState([[0, 0], [0, 0]]);

@@ -64,7 +64,7 @@ const Guess: React.FC<{guesses: number[][], state:GameState, set: Function}> = (
             <progress max={1000} value={score} style={{width: 500}}></progress>
             <br />
             {
-                state.round < 3 ?
+                state.round < 2 ?
                     <>
                         <button onClick={() => {
                             set({round: state.round + 1, id: getRandomPlace(), score: (state.score ?? 0) + score});

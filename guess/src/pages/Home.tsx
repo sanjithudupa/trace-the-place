@@ -10,10 +10,10 @@ const Home: React.FC<{set: Function}> = ({set}) => {
     return (
         <div style={{textAlign: "center"}}>
             <h1>Start a Game:</h1>
-            <button onClick={() => {
+            <Button onClick={() => {
                 set({round: 0, id: getRandomPlace()});
                 history.push("/game");
-            }}>Start</button>
+            }}>Start</Button>
         </div>
     )
 }

@@ -60,11 +60,12 @@ const Game: React.FC<{state: GameState, setGuesses: Function}> = ({state, setGue
                     <div style={{position: "absolute", bottom: 10, left: 25, zIndex: 20, textAlign: "center"}}>
                         <div style={{width: 400}}>
                             <div style={{textAlign: "center", height: 35, /*width: 200,*/ backgroundColor: "rgba(0,0,0,0.55)", margin: "0 auto", marginBottom: 15, borderRadius: 15, padding: "1px 0"}}>
-                                <h4 style={{color: "white", position: "relative", bottom: 14}}>Round: {state.round + 1} | Score: {state.score}</h4>
+                                <h5 style={{color: "white", position: "relative", top: 2.5}}>Round: {state.round + 1} | Score: {state.score ?? 0}</h5>
                             </div>
                         </div>
                         <Map set={setGuess} />
-                        <Button variant="outlined" onClick={verify}>Guess Location!</Button>
+                        <br />
+                        <Button onClick={verify}>Guess Location!</Button>
                     </div>
                 </div>
             :
