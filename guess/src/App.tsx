@@ -25,7 +25,7 @@ const App: React.FC = () => {
         <Game state={gameState} setGuesses={setGuesses} />
       </Route>
       <Route exact path="/guess">
-        <Guess guesses={guesses} />
+        <Guess guesses={guesses} state={gameState} set={setGameState} />
       </Route>
     </Router>
   )

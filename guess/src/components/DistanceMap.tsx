@@ -45,7 +45,8 @@ const DistanceMap: React.FC<{guess: number[], answer: number[]}> = ({guess, answ
                 },
                 paint: {
                     'line-color': '#389900',
-                    'line-width': 5
+                    'line-width': 5,
+                    'line-dasharray': [0.5, 2]
                 }
             });
         });
