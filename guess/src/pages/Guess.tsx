@@ -42,7 +42,7 @@ const Guess: React.FC<{guesses: number[][]}> = ({guesses}) => {
     }, [])
 
     return (
-        <div style={{textAlign: "center"}}>
+        <div style={{textAlign: "center", width: "100%"}}>
             <h1>Your guess was {distance} km away from the location:</h1>
             <DistanceMap guess={guess} answer={answer} />
         </div>

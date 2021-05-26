@@ -54,7 +54,7 @@ const DistanceMap: React.FC<{guess: number[], answer: number[]}> = ({guess, answ
     }, [])
 
     return (
-        <div id="distance_map" style={{width: 600, height: 450, borderRadius: 25}}></div>
+        <div id="distance_map" style={{width: 800, height: 450, borderRadius: 25, margin: "0 auto", boxShadow: "0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"}}></div>
     )
 }
 

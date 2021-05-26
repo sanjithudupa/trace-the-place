@@ -24,7 +24,7 @@ const Map: React.FC<{set: Function}> = ({set}) => {
     }, [])
 
     return (
-        <div id="mapbox_map" style={{width: 400, height: 300, borderRadius: 25}}></div>
+        <div id="mapbox_map" style={{width: 400, height: 300, borderRadius: 25, boxShadow: "0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"}}></div>
     )
 }
 

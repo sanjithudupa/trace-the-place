@@ -9,7 +9,7 @@ import { mapbox_access_token } from "./constants";
 import Guess from './pages/Guess';
 
 const App: React.FC = () => {
-  const [gameState, setGameState] = useState<GameState>({round: 0, id: "NULL"});
+  const [gameState, setGameState] = useState<GameState>({round: 0, id: "NULL", score: 0});
   const [guesses, setGuesses] = useState([[0, 0], [0, 0]]);
   
   useEffect(() => {

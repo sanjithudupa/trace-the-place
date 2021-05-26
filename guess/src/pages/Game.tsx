@@ -8,7 +8,7 @@ import { Button/*, Modal*/ } from 'react-bootstrap';
 
 import { getCoordinates } from "../utils/places";
 
-const App: React.FC<{state: GameState, setGuesses: Function}> = ({state, setGuesses}) => {
+const Game: React.FC<{state: GameState, setGuesses: Function}> = ({state, setGuesses}) => {
 
     const [dimensions, setDimensions] = useState([0, 0]);
     const [guess, setGuess] = useState([0, 0]);
@@ -31,6 +31,7 @@ const App: React.FC<{state: GameState, setGuesses: Function}> = ({state, setGues
             
             console.log(viewer);
         }, 100)
+        console.log(state)
     }, []);
 
     const verify = () => {
@@ -56,7 +57,12 @@ const App: React.FC<{state: GameState, setGuesses: Function}> = ({state, setGues
             dimensions[0] != 0 ?
                 <div>
                     <div id="map" style={{width: "100%", height: dimensions[1], zIndex: 0}}></div>
-                    <div style={{position: "absolute", bottom: 20, left: 20, zIndex: 20, textAlign: "center"}}>
+                    <div style={{position: "absolute", bottom: 10, left: 25, zIndex: 20, textAlign: "center"}}>
+                        <div style={{width: 400}}>
+                            <div style={{textAlign: "center", height: 35, /*width: 200,*/ backgroundColor: "rgba(0,0,0,0.55)", margin: "0 auto", marginBottom: 15, borderRadius: 15, padding: "1px 0"}}>
+                                <h4 style={{color: "white", position: "relative", bottom: 14}}>Round: {state.round + 1} | Score: {state.score}</h4>
+                            </div>
+                        </div>
                         <Map set={setGuess} />
                         <Button variant="outlined" onClick={verify}>Guess Location!</Button>
                     </div>
@@ -89,4 +95,4 @@ const App: React.FC<{state: GameState, setGuesses: Function}> = ({state, setGues
     );
 }
 
-export default App;
+export default Game;
