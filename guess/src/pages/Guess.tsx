@@ -63,7 +63,7 @@ const Guess: React.FC<{guesses: number[][], state:GameState, set: Function}> = (
                 :
                     <h2>Unfortunately, you scored 0 points in that round.</h2>
             }
-            <ProgressBar max={1000} now={score} style={{width: 500, alignSelf: "center"}}></ProgressBar>
+            <ProgressBar max={1500} now={score} style={{width: 500, alignSelf: "center"}}></ProgressBar>
             <br />
             {
                 state.round < 2 ?
