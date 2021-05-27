@@ -9,8 +9,9 @@ import { getRandomPlace } from "../utils/places";
 import GameState from "../types/gameState";
 import Button from "react-bootstrap/esm/Button";
 import { ProgressBar } from "react-bootstrap";
+import { saveGame } from "../utils/history";
 
-const Guess: React.FC<{guesses: number[][], state:GameState, set: Function}> = ({guesses, state, set}) => {
+const Guess: React.FC<{guesses: number[][], state:GameState, set: Function, setDist: Function, distances: number[]}> = ({guesses, state, set, setDist, distances}) => {
 
     const [distance, setDistance] = useState(0);
     const [score, setScore] = useState(0);
@@ -35,6 +36,8 @@ const Guess: React.FC<{guesses: number[][], state:GameState, set: Function}> = (
 
         const dist = parseFloat(getDistanceFromLatLonInKm(guess, answer).toFixed(2));
         setDistance(dist);
+
+        setDist(dist);
 
         setTimeout(() => {
             setScore(calculateScore(dist));
@@ -80,10 +83,24 @@ const Guess: React.FC<{guesses: number[][], state:GameState, set: Function}> = (
                         <Button style={{width: "10%", alignSelf: "center"}} onClick={() => {
                             const finalScore = state.score + score;
                             set({round: 0, id: "NULL", score: 0});
-                            
-                            alert(`You scored ${finalScore} points during that game!`);
 
-                            history.push("/");
+                            const dists = distances;
+                            dists.shift();
+                            const date = new Date();
+
+                            const save = {
+                                date,
+                                dist1: dists[0],
+                                dist2: dists[1],
+                                dist3: dists[2],
+                                score: finalScore
+                            }
+
+                            saveGame(save);
+                            
+                            // alert(`You scored ${finalScore} points during that game!`);
+                            
+                            history.push("/past");
                         }}>View Summary</Button>
                     </>
             }

@@ -11,16 +11,25 @@ import Guess from './pages/Guess';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Navbar from 'react-bootstrap/esm/Navbar';
 import Nav from 'react-bootstrap/esm/Nav';
+import Past from './pages/Past';
 
 const App: React.FC = () => {
   const [gameState, setGameState] = useState<GameState>({round: 0, id: "NULL", score: 0});
   const [guesses, setGuesses] = useState([[0, 0], [0, 0]]);
 
   const [history, setHistory] = useState<any>(undefined);
+  const [distances, setDistances] = useState<number[]>([]);
+  const [dist, setDist] = useState(0);
   
   useEffect(() => {
     (window as any).mapboxgl.accessToken = mapbox_access_token;
   }, []);
+
+  useEffect(() => {
+    const dists = distances;
+    dists.push(dist);
+    setDistances(dists);
+  }, [dist]);
   
   return (
     <div>
@@ -80,7 +89,10 @@ const App: React.FC = () => {
           <Game state={gameState} setGuesses={setGuesses} />
         </Route>
         <Route exact path="/guess">
-          <Guess guesses={guesses} state={gameState} set={setGameState} />
+          <Guess guesses={guesses} state={gameState} set={setGameState} setDist={setDist} distances={distances} />
+        </Route>
+        <Route exact path="/past">
+          <Past />
         </Route>
       </Router>
     </div>
