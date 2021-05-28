@@ -69,7 +69,7 @@ const App: React.FC = () => {
                       e.preventDefault();
                       history.push("/attributions")
                     }}>Attributions</Nav.Link>  
-                    <Nav.Link href="https://www.github.com">Source Code</Nav.Link>
+                    <Nav.Link href="https://www.github.com/sanjithudupa/trace-the-place">Source Code</Nav.Link>
                     {
                       gameState.id != "NULL" && !(window.location.pathname.includes("/game") || window.location.pathname.includes("/guess")) ?
                         <Nav.Link href="https://www.github.com" style={{position: "absolute", right: 20, fontWeight: "bold"}}>Return to Game (Round {gameState.round + 1}/3)</Nav.Link>
