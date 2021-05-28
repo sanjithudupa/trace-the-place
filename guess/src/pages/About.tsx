@@ -33,7 +33,7 @@ const About: React.FC = () => {
 
                 <strong>Context For This Project:</strong>
                 <br />
-                <a href="#">Code</a>
+                <a href="https://github.com/sanjithudupa/trace-the-place">Code</a>
                 <br />
                 <a href="#">Video Explanation</a>
 
