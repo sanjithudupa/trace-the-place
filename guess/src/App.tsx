@@ -9,9 +9,11 @@ import { mapbox_access_token } from "./constants";
 import Guess from './pages/Guess';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
+import '@fortawesome/fontawesome-free/css/all.css';
 import Navbar from 'react-bootstrap/esm/Navbar';
 import Nav from 'react-bootstrap/esm/Nav';
 import Past from './pages/Past';
+import About from './pages/About';
 
 const App: React.FC = () => {
   const [gameState, setGameState] = useState<GameState>({round: 0, id: "NULL", score: 0});
@@ -93,6 +95,9 @@ const App: React.FC = () => {
         </Route>
         <Route exact path="/past">
           <Past />
+        </Route>
+        <Route exact path="/about">
+          <About />
         </Route>
       </Router>
     </div>
