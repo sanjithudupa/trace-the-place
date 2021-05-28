@@ -10,6 +10,8 @@ import Footer from "../components/Footer";
 import Collapse from "react-bootstrap/esm/Collapse";
 import Fade from "react-bootstrap/esm/Fade";
 
+import Map from "../images/map.jpg";
+
 const Home: React.FC<{set: Function, setHistory: Function, state: Function}> = ({set, setHistory, state}) => {
 
     const history = useHistory();
@@ -32,10 +34,10 @@ const Home: React.FC<{set: Function, setHistory: Function, state: Function}> = (
     return (
         <div>
             <Fade in={animState>=1}>
-                <ParticleBG type="tadpole" num={50} bg={true} color="#9593D9" /> 
+                <ParticleBG type="cobweb" num={100} bg={true} color="#9593D9" /> 
             </Fade>
 
-            <div style={{textAlign: "center", position: "relative", top: 150}}>
+            <div style={{textAlign: "center", position: "relative", top: 150, zIndex: 200}}>
                 <Collapse in={animState >= 1}>
                     <h1>Welcome to <span style={{color: "#7C90DB"}}>Trace<span style={{color: "#ffb703"}}>The</span>Place</span>.
                         
