@@ -37,7 +37,7 @@ const Home: React.FC<{set: Function, setHistory: Function, state: Function}> = (
 
             <div style={{textAlign: "center", position: "relative", top: 150}}>
                 <Collapse in={animState >= 1}>
-                    <h1>Welcome to <span style={{color: "#7C90DB"}}>World Hunt</span>.
+                    <h1>Welcome to <span style={{color: "#7C90DB"}}>Trace<span style={{color: "#ffb703"}}>The</span>Place</span>.
                         
                         {/* <Collapse in={animState >= 1} timeout={500}>
                             <span style={{color: "#7C90DB"}}>World Hunt.</span> 
