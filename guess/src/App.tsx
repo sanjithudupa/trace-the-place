@@ -14,6 +14,7 @@ import Navbar from 'react-bootstrap/esm/Navbar';
 import Nav from 'react-bootstrap/esm/Nav';
 import Past from './pages/Past';
 import About from './pages/About';
+import Attributions from './pages/Attributions';
 
 const App: React.FC = () => {
   const [gameState, setGameState] = useState<GameState>({round: 0, id: "NULL", score: 0});
@@ -98,6 +99,9 @@ const App: React.FC = () => {
         </Route>
         <Route exact path="/about">
           <About />
+        </Route>
+        <Route exact path="/attributions">
+          <Attributions />
         </Route>
       </Router>
     </div>
